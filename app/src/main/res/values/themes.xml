@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Manzum" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Android 12+ SplashScreen API için: sadece koyu arka plan rengi kullanılıyor.
+         Metin ("Manzum" yazısı) native splash'te desteklenmediği için,
+         MainActivity ilk açılışta kısa süreliğine Compose tarafında
+         markalı bir ekran gösteriyor (bkz. ManzumSplashEkrani). -->
+    <style name="Theme.Manzum.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0D1123</item>
+        <item name="postSplashScreenTheme">@style/Theme.Manzum</item>
+    </style>
+</resources>

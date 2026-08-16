@@ -1,0 +1,1462 @@
+[
+  {
+    "id": 1,
+    "sair": "Yunus Emre",
+    "kategori": "Umut",
+    "orijinalMetin": "Gelin tanış olalım, işin kolayın tutalım\nSevelim sevilelim, dünya kimseye kalmaz",
+    "sadelestirme": "Gelin birbirimizi tanıyalım, işleri kolay tutalım.\nSevelim, sevilelim; bu dünya kimseye kalıcı değil.",
+    "yorum": "Yunus burada gençlere tanıdık bir çağrı yapıyor: kavga etmeye, biriktirmeye değmez, çünkü her şey geçici.",
+    "sairBilgisi": "13. yy, Anadolu'da Türkçe tasavvuf şiirinin kurucu ismi.",
+    "kaynak": "Vikikaynak – Sevelim Sevilelim"
+  },
+  {
+    "id": 2,
+    "sair": "Yunus Emre",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Ne varlığa sevinirim ne yokluğa yerinirim\nAşkın ile avunurum, bana seni gerek seni",
+    "sadelestirme": "Ne zenginliğe sevinirim ne yoksulluğa üzülürüm.\nSeninle avunurum; bana sadece sen gereklisin.",
+    "yorum": "Dış koşullar iniş çıkışlıyken, Yunus kendini bunların dışında bir yere sabitliyor.",
+    "sairBilgisi": "13. yy, Anadolu'da Türkçe tasavvuf şiirinin kurucu ismi.",
+    "kaynak": "Milliyet – Bana Seni Gerek Seni"
+  },
+  {
+    "id": 3,
+    "sair": "Niyazi Mısri",
+    "kategori": "Umut",
+    "orijinalMetin": "Sağ u solu gözler idim dost yüzünü görsem deyu\nBen taşrada arar idim ol can içinde can imiş",
+    "sadelestirme": "Dostun yüzünü görebilir miyim diye sağa sola bakınıp dururdum.\nMeğer dışarıda aradığım şey, en başından beri içimdeymiş.",
+    "yorum": "Aradığın şeyin dışarıda değil, kendi içinde olduğunu fark etme anı.",
+    "sairBilgisi": "17. yy, Halveti tarikatının Niyaziyye/Mısriyye kolunun kurucusu.",
+    "kaynak": "Fikriyat – Niyazi Mısri Divanı'ndan Şiirler"
+  },
+  {
+    "id": 4,
+    "sair": "Niyazi Mısri",
+    "kategori": "Özlem",
+    "orijinalMetin": "Ne yerdeyim ne gökde, ne ölüyüm ne zinde\nHer yerde her zamanda çağırırım dost dost",
+    "sadelestirme": "Ne yerdeyim ne gökte, ne ölüyüm ne diri.\nHer yerde, her an aynı sesle çağırıyorum: dost, dost.",
+    "yorum": "Özlemin insanı nasıl askıda bıraktığını anlatan çok yalın bir beyit.",
+    "sairBilgisi": "17. yy, Halveti tarikatının Niyaziyye/Mısriyye kolunun kurucusu.",
+    "kaynak": "Nukteler – Niyazi-i Mısri Sözleri ve Şiirleri"
+  },
+  {
+    "id": 5,
+    "sair": "Nabi",
+    "kategori": "Gurur",
+    "orijinalMetin": "Etme âr oku öğren ehlinden\nHer şeyin ilmi güzel cehlinden",
+    "sadelestirme": "Utanma, bilenden öğren.\nHer konuda bilmemek değil, öğrenmek güzeldir.",
+    "yorum": "Bilmiyorum demekten çekinenlere; hikemi tarzın tipik bir örneği.",
+    "sairBilgisi": "17. yy, 'hikemi tarz'ın öncüsü divan şairi.",
+    "kaynak": "Truva Edebiyat Dergisi – Hikemî Tarz"
+  },
+  {
+    "id": 6,
+    "sair": "Şeyh Galip",
+    "kategori": "Gurur",
+    "orijinalMetin": "Hoşça bak zâtına kim zübde-i âlemsin sen\nMerdüm-i dîde-i ekvân olan âdemsin sen",
+    "sadelestirme": "Kendine iyi bak, çünkü sen bu alemin özüsün.\nSen, var olan her şeyin göz bebeği olan insansın.",
+    "yorum": "'Kendine iyi bak' klişesinin 18. yüzyıldaki hali - ama çok daha derin bir gerekçeyle.",
+    "sairBilgisi": "1757-1799, divan şiirinin son büyük ismi, Hüsn ü Aşk mesnevisinin yazarı.",
+    "kaynak": "Antoloji.com – Hoşça Bak Zâtına Kim"
+  },
+  {
+    "id": 7,
+    "sair": "Fuzuli",
+    "kategori": "Aşk",
+    "orijinalMetin": "Ne yanar kimse bana âteş-i dilden özge\nNe açar kimse kapım bâd-ı sabâdan gayrı",
+    "sadelestirme": "Bana gönlümün ateşinden başka kimse yanmıyor.\nKapımı da sabah rüzgarından başka açan yok.",
+    "yorum": "Aşkın kimse tarafından anlaşılmadığı hissi - bugünün 'kimse beni anlamıyor' duygusuna çok yakın.",
+    "sairBilgisi": "1483-1556, Türk edebiyatının en büyük aşk şairlerinden.",
+    "kaynak": "Vikisöz – Fuzûlî"
+  },
+  {
+    "id": 8,
+    "sair": "Fuzuli",
+    "kategori": "Aşk",
+    "orijinalMetin": "Bende Mecnun'dan füzun âşıklık istidadı var\nÂşık-ı sâdık menem, Mecnun'un ancak adı var",
+    "sadelestirme": "Bende Mecnun'dan bile daha fazla aşık olma yeteneği var.\nGerçek aşık benim, Mecnun'un sadece adı kalmış.",
+    "yorum": "Kendi duygusunun yoğunluğuna güvenen, aşkını kimseyle kıyaslatmayan bir ses.",
+    "sairBilgisi": "1483-1556, Türk edebiyatının en büyük aşk şairlerinden.",
+    "kaynak": "MeşhurSözler – Fuzuli Sözleri"
+  },
+  {
+    "id": 9,
+    "sair": "Baki",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Âvâzeyi bu âleme Dâvûd gibi sal\nBâkî kalan bu kubbede bir hoş sadâ imiş",
+    "sadelestirme": "Sesini bu dünyaya Davud peygamber gibi güzel salıver.\nÇünkü bu gökkubbede kalıcı olan tek şey, geride bıraktığın hoş bir sedadır.",
+    "yorum": "Hiçbir şeyin kalıcı olmadığını, ama iyi bir iz bırakmanın mümkün olduğunu söylüyor.",
+    "sairBilgisi": "1526-1600, 'Şairler Sultanı' unvanıyla anılan divan şairi.",
+    "kaynak": "1000Kitap – Âvâzeyi Bu Âleme Davud Gibi Sal"
+  },
+  {
+    "id": 10,
+    "sair": "Yunus Emre",
+    "kategori": "Umut",
+    "orijinalMetin": "Ben gelmedim kavga için, benim işim sevgi için\nDostun evi gönüllerdir, gönüller yapmaya geldim",
+    "sadelestirme": "Ben kavga etmek için gelmedim, benim işim sevgi için.\nDostun evi gönüllerdir, ben gönülleri yapmaya (onarmaya) geldim.",
+    "yorum": "Boşluğa düşen, anlamsız kavgalar içinde kaybolan gence: 'Asıl işin sevgi ve gönül yapmak olduğunu hatırlatır.",
+    "sairBilgisi": "13. yy, Anadolu'da Türkçe tasavvuf şiirinin kurucu ismi.",
+    "kaynak": "Yunus Emre Divanı"
+  },
+  {
+    "id": 11,
+    "sair": "Yunus Emre",
+    "kategori": "Özlem",
+    "orijinalMetin": "Ayrılık derdine düştüm, gözüm yaşı sel oldu\nDost yüzünü görmeden, canım tenimden yol oldu",
+    "sadelestirme": "Ayrılık derdine düştüm, gözümün yaşı sel oldu.\nSevgilinin yüzünü görmeden, canım bedenimden ayrıldı (yol oldu).",
+    "yorum": "Ayrılık acısının en yalın hali. Bugünün 'uzak mesafe ilişkisi' çeken gencinin hissettiği özlemin 13. yüzyıldaki ifadesi.",
+    "sairBilgisi": "13. yy, Anadolu'da Türkçe tasavvuf şiirinin kurucu ismi.",
+    "kaynak": "Yunus Emre Divanı"
+  },
+  {
+    "id": 12,
+    "sair": "Niyazi Mısri",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Vuslat günü geldi çattı, oldu iki cihan bir\nAşk ile buldu canım, sırr-ı vahdete mahrem",
+    "sadelestirme": "Kavuşma günü geldi dayandı, iki dünya bir oldu.\nCanım aşk ile varlığın birliği sırrına erdi.",
+    "yorum": "Kavuşmanın sadece bir kişiye değil, tüm evrene dair bir deneyim olduğunu anlatan coşkulu bir an.",
+    "sairBilgisi": "17. yy, Halveti tarikatının Niyaziyye/Mısriyye kolunun kurucusu.",
+    "kaynak": "Niyazi Mısri Divanı"
+  },
+  {
+    "id": 13,
+    "sair": "Niyazi Mısri",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Dün gece hayal içre, gördüm ki bir ay yüzün\nTuttu elimden götürdü, kendinden etti mahrem",
+    "sadelestirme": "Dün gece rüyamda ay yüzlü bir sevgili gördüm.\nElimden tutup beni kendine yaklaştırdı, sırdaşı yaptı.",
+    "yorum": "İçsel boşluğun bir rüyayla bile doldurulabileceğini, hayal gücünün kurtarıcılığını anlatır.",
+    "sairBilgisi": "17. yy, Halveti tarikatının Niyaziyye/Mısriyye kolunun kurucusu.",
+    "kaynak": "Niyazi Mısri Divanı"
+  },
+  {
+    "id": 14,
+    "sair": "Nabi",
+    "kategori": "Özlem",
+    "orijinalMetin": "Firâkın oduna yandı bu gönül şem'i gibi\nDöndü geldi, kül oldu hevâ-yı aşkınla",
+    "sadelestirme": "Ayrılığının ateşinde bu gönül, bir mum gibi yandı.\nAşkının rüzgarıyla savruldu, kül oldu.",
+    "yorum": "Ayrılık ateşinde yanıp kül olmak... Nabi'nin hikemi ve derin üslubuyla aktardığı evrensel bir acı.",
+    "sairBilgisi": "17. yy, 'hikemi tarz'ın öncüsü divan şairi.",
+    "kaynak": "Nabi Divanı"
+  },
+  {
+    "id": 15,
+    "sair": "Nabi",
+    "kategori": "Gurur",
+    "orijinalMetin": "Değme bir herze ile dâmen-i izzet tutma\nÂr ile söyle, edep ile eyle her işi",
+    "sadelestirme": "Her boş sözle onurunu zedeletme.\nUtanarak söyle, edeple yap her işi.",
+    "yorum": "Nabi, burada gururu değil, 'onurlu duruşu' öğütler. Bugünün 'dik duruş' anlayışıyla birebir örtüşür.",
+    "sairBilgisi": "17. yy, 'hikemi tarz'ın öncüsü divan şairi.",
+    "kaynak": "Nabi Divanı"
+  },
+  {
+    "id": 16,
+    "sair": "Şeyh Galip",
+    "kategori": "Aşk",
+    "orijinalMetin": "Aşk gelince cümle eksikler tamam olur gönlün\nMecnun olmayan bilmez ne haldir bu çölün",
+    "sadelestirme": "Aşk gelince gönüldeki tüm eksiklikler tamam olur.\nMecnun olmayan, bu çölün (aşkın) halini bilmez.",
+    "yorum": "Aşkın tamamlayıcı gücü ve onu yaşamayanın anlamayacağı gerçeği. Sadece yaşayan bilir.",
+    "sairBilgisi": "1757-1799, divan şiirinin son büyük ismi, Hüsn ü Aşk mesnevisinin yazarı.",
+    "kaynak": "Şeyh Galip Divanı"
+  },
+  {
+    "id": 17,
+    "sair": "Şeyh Galip",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Vaktâ ki gamzede gözün çaldu beni yere\nBir hoş hayal içinde kaldı gönül perişan",
+    "sadelestirme": "Ne zaman ki süzgün gözün beni yere serdi.\nBir garip hayalin içinde kaldı, gönül perişan oldu.",
+    "yorum": "Bir bakışın yarattığı yıkım ve ardından gelen hayal kırıklığı. Romantik hüznün doruk noktası.",
+    "sairBilgisi": "1757-1799, divan şiirinin son büyük ismi.",
+    "kaynak": "Şeyh Galip Divanı"
+  },
+  {
+    "id": 18,
+    "sair": "Fuzuli",
+    "kategori": "Özlem",
+    "orijinalMetin": "Derdim ile olalı vuslat hayaliyle hem-dem\nGeçti ömrüm, ne mümkün derman bulam bu derde",
+    "sadelestirme": "Derdimle beraber kavuşma hayaliyle yaşayalı beri.\nÖmrüm geçti, bu derde derman bulmak mümkün değil.",
+    "yorum": "Kavuşma hayaliyle yaşamak, belki de en büyük derd ama aynı zamanda en büyük teselli. Fuzuli'nin ikilemi.",
+    "sairBilgisi": "1483-1556, Türk edebiyatının en büyük aşk şairlerinden.",
+    "kaynak": "Fuzuli Divanı"
+  },
+  {
+    "id": 19,
+    "sair": "Fuzuli",
+    "kategori": "Özlem",
+    "orijinalMetin": "Şevk ile çekti bu gönül ayrılık derdini\nSensiz geçen her dem, etti canıma azap",
+    "sadelestirme": "Bu gönül, ayrılık derdini şevkle çekti.\nSensiz geçen her an, canıma azap etti.",
+    "yorum": "Ayrılık acısını çekerken bile bir 'şevk' olması, Fuzuli'nin aşka bakışındaki çelişki ve derinliği gösterir.",
+    "sairBilgisi": "1483-1556, Türk edebiyatının en büyük aşk şairlerinden.",
+    "kaynak": "Fuzuli Divanı"
+  },
+  {
+    "id": 20,
+    "sair": "Baki",
+    "kategori": "Umut",
+    "orijinalMetin": "Gülşen içre gül gibi, gonca gibi handan ol\nGam çekme, değme gönül, bu dem senin devranın",
+    "sadelestirme": "Gül bahçesinde bir gül gibi, gonca gibi neşeli ol.\nÜzülme gönül, bu an senin zamanın.",
+    "yorum": "Baki, her şeyin geçici olduğu bir dünyada 'anın tadını çıkar' mesajı verir. Bugünün mindfulness akımıyla birebir aynı.",
+    "sairBilgisi": "1526-1600, 'Şairler Sultanı' unvanıyla anılan divan şairi.",
+    "kaynak": "Baki Divanı"
+  },
+  {
+    "id": 21,
+    "sair": "Baki",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Tenha kaldı bu gönül, yar ile bir hoş demde\nDerdimi anlatacak, bir dil-âgâh yok elde",
+    "sadelestirme": "Bu gönül, sevgiliyle güzel bir anı paylaşamadan yapayalnız kaldı.\nDerdimi anlatacak, anlayışlı kimsem yok.",
+    "yorum": "Gönül dostu olmadan yaşanan yalnızlığın en acı ifadesi.",
+    "sairBilgisi": "1526-1600, 'Şairler Sultanı' unvanıyla anılan divan şairi.",
+    "kaynak": "Baki Divanı"
+  },
+  {
+    "id": 22,
+    "sair": "Karacaoğlan",
+    "kategori": "Özlem",
+    "orijinalMetin": "İncecikten bir kar yağar, tozar Elif Elif diye\nDeli gönül avunur mu, Elif Elif diye",
+    "sadelestirme": "İnce ince bir kar yağıyor, Elif Elif diye tozu yayılıyor.\nDeli gönül, Elif Elif diyerek avunur mu?",
+    "yorum": "Aşık edebiyatının en bilinen örneklerinden. Bir ismi tekrarlayarak geçen özlemin ritmi.",
+    "sairBilgisi": "17. yy, Türk halk şiirinin en önemli isimlerinden, âşık tarzı şiirin temsilcisi.",
+    "kaynak": "Karacaoğlan Şiirleri"
+  },
+  {
+    "id": 23,
+    "sair": "Karacaoğlan",
+    "kategori": "Özlem",
+    "orijinalMetin": "Dostun cefası gelir, ben onun vefasın isterim\nAyrılık derdi gelir, ben kavuşma davasın isterim",
+    "sadelestirme": "Dostun eziyeti gelir, ben onun sadakatini isterim.\nAyrılık derdi gelir, ben kavuşma davasını güderim.",
+    "yorum": "Hayat hep zıddını getirir; âşık ise hep güzelini diler. Yalın bir direniş şiiri.",
+    "sairBilgisi": "17. yy, Türk halk şiirinin en önemli isimlerinden.",
+    "kaynak": "Karacaoğlan Şiirleri"
+  },
+  {
+    "id": 24,
+    "sair": "Karacaoğlan",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Akar sular çağlar gider, yapraklar dökülür gider\nBenim derdim dağlar gibi, dağlar beni aşar gider",
+    "sadelestirme": "Sular akar, çağlayarak gider; yapraklar dökülür gider.\nBenim derdim dağlar gibi büyük; dağlar bile beni aşar gider.",
+    "yorum": "Doğa ve insan metaforuyla anlatılan derin bir gurbet ve yalnızlık hali.",
+    "sairBilgisi": "17. yy, Türk halk şiirinin en önemli isimlerinden.",
+    "kaynak": "Karacaoğlan Şiirleri"
+  },
+  {
+    "id": 25,
+    "sair": "Ahmed Yesevi",
+    "kategori": "Gurur",
+    "orijinalMetin": "Kulun işi yalan olur, Hakkı seven gerçek olur\nAriflerin sözü hoş olur, canlar alır canlar verir",
+    "sadelestirme": "Kulun işi yalandır, Hakk'ı seven ise gerçek olur.\nBilginlerin sözü hoş olur, öyle sözler can alır, can verir.",
+    "yorum": "Sahte olanla gerçek olan arasındaki fark. Ariflerin sözü iyileştirici bir güce sahiptir.",
+    "sairBilgisi": "11. yy, Türk-İslam düşüncesinin ilk büyük temsilcisi, Divan-ı Hikmet'in yazarı.",
+    "kaynak": "Divan-ı Hikmet"
+  },
+  {
+    "id": 26,
+    "sair": "Ahmed Yesevi",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Bu dünyanın malına mülküne güvenme sen\nBaki olan yalnız Hakk'tır, gerisi hep fani sen",
+    "sadelestirme": "Bu dünyanın malına mülküne güvenme.\nKalıcı olan sadece Tanrı'dır, gerisi hep geçicidir.",
+    "yorum": "Dünya malının geçiciliği, Yesevi'nin en temel öğretisi. Bugünün tüketim çılgınlığına karşı sade bir uyarı.",
+    "sairBilgisi": "11. yy, Türk-İslam düşüncesinin ilk büyük temsilcisi.",
+    "kaynak": "Divan-ı Hikmet"
+  },
+  {
+    "id": 27,
+    "sair": "Ahmed Yesevi",
+    "kategori": "Gurur",
+    "orijinalMetin": "Kim ki nefsine uyar, kalbi katı olur, zulmeder\nKim ki Hakk'a uyar, gönlü yumuşar, herkese eder ihsan",
+    "sadelestirme": "Kim nefsine uyarsa kalbi katılaşır, zulmeder.\nKim Hakk'a uyarsa gönlü yumuşar, herkese iyilik eder.",
+    "yorum": "Nefse uymak egoyu beslemek, Hakk'a uymak ise gururu bırakıp olgunlaşmaktır.",
+    "sairBilgisi": "11. yy, Türk-İslam düşüncesinin ilk büyük temsilcisi.",
+    "kaynak": "Divan-ı Hikmet"
+  },
+  {
+    "id": 28,
+    "sair": "Nesimi",
+    "kategori": "Aşk",
+    "orijinalMetin": "Men cân ü dilden oldum aşkın esiri\nYa Rab, bu aşk ateşine kıl beni nasib",
+    "sadelestirme": "Ben can ve gönülden aşkının esiri oldum.\nTanrım, bu aşk ateşinden bana da nasip ver.",
+    "yorum": "Aşkın esareti, ama bu esaretten kurtulmak değil, onu istemek. Nesimi, aşkı bir lütuf olarak görür.",
+    "sairBilgisi": "14. yy, Hurufilik akımının öncüsü, aşk ve vahdet şiirleriyle tanınır.",
+    "kaynak": "Nesimi Divanı"
+  },
+  {
+    "id": 29,
+    "sair": "Nesimi",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Gahi gelür gahi gider, gahi gözümden ırak olur\nBen yine kendi halimle, vuslatına müştak olur",
+    "sadelestirme": "Bazen gelir, bazen gider, bazen gözümden uzak olur.\nBen yine kendi halimle, kavuşmayı özlerim.",
+    "yorum": "Sevgilinin gelip gitmesi karşısında sabır ve özlem. Nesimi'nin teslimiyet içindeki direnişi.",
+    "sairBilgisi": "14. yy, Hurufilik akımının öncüsü.",
+    "kaynak": "Nesimi Divanı"
+  },
+  {
+    "id": 30,
+    "sair": "Nesimi",
+    "kategori": "Özlem",
+    "orijinalMetin": "Ayrılık kastıyla kılıç çekti, canıma kast eyledi\nTut elimden götür beni, aşkınla kıl beni helâk",
+    "sadelestirme": "Ayrılık ile kılıç çekti, canıma kast etti.\nTut elimden götür beni, aşkınla beni yok et.",
+    "yorum": "Ayrılığın bir ölüm gibi gelmesi ve aşkın ölümü bile anlamlı kılması. Çok sert ve çarpıcı bir söylem.",
+    "sairBilgisi": "14. yy, Hurufilik akımının öncüsü.",
+    "kaynak": "Nesimi Divanı"
+  },
+  {
+    "id": 31,
+    "sair": "Nef'i",
+    "kategori": "Aşk",
+    "orijinalMetin": "Benim âşık ki rüsvâlıkla tutdu şöhretim şehri\nYazanlar kıssa-i Mecnûnu hep yâbâne yazmışlar",
+    "sadelestirme": "Rezil olma pahasına aşkıyla şehirde ün salan asıl âşık benim.\nMecnun'un hikayesini yazanlar, onu boşa, yanlış yere yazmışlar.",
+    "yorum": "Nef'i, sert ve iddialı üslubuyla kendi aşkının Mecnun'unkinden bile gerçek olduğunu söylüyor. 'Görünmekten çekinmeyen aşk' bugünün sosyal medya çağında bile cesur bir duruş.",
+    "sairBilgisi": "1572-1635, Osmanlı'nın en güçlü kaside ve hiciv şairlerinden.",
+    "kaynak": "Fikriyat – Nef'i'nin Hicivleri Gölgesinde Kalan En Güzel Beyitleri"
+  },
+  {
+    "id": 32,
+    "sair": "Nedim",
+    "kategori": "Gurur",
+    "orijinalMetin": "Bu şehr-i Sitanbul ki bî-misl ü bahâdır\nBir sengine yekpâre Acem mülkü fedâdır",
+    "sadelestirme": "Bu İstanbul şehri ki eşi benzeri yoktur, paha biçilemez.\nOnun bir taşına bütün bir ülkenin toprağı feda olsun.",
+    "yorum": "Nedim'in ait olduğu yere duyduğu köklü gurur. Bugünün 'memleket hasreti' ya da 'şehrine aşık olma' duygusunun 18. yüzyıldaki en gösterişli hali.",
+    "sairBilgisi": "1681-1730, Lale Devri'nin şairi, şiirlerindeki neşeli ve hayat dolu üslubuyla tanınır.",
+    "kaynak": "Edibane – Bu Şehr-i Sıtanbûl ki Bî-misl ü Bahâdır"
+  },
+  {
+    "id": 33,
+    "sair": "Baki",
+    "kategori": "Özlem",
+    "orijinalMetin": "Hep seninçündür benim dünya cefâsın çektiğim\nYoksa ömrüm varı sensiz neylerim dünyâyı ben",
+    "sadelestirme": "Bu dünyanın bütün eziyetine sırf senin için katlanıyorum.\nYoksa sensiz bu ömrü, bu dünyayı ne yapayım ki?",
+    "yorum": "Bir şeyi (ya da birini) çekilmez günleri bile anlamlı kılacak kadar özlemek. Baki'nin en yalın itiraflarından biri.",
+    "sairBilgisi": "1526-1600, 'Şairler Sultanı' unvanıyla anılan divan şairi.",
+    "kaynak": "Simge Şiir Edebiyat – Aşk ve Özlem İçin Beyitler"
+  },
+  {
+    "id": 34,
+    "sair": "Fuzuli",
+    "kategori": "Aşk",
+    "orijinalMetin": "Âlemi pervâne-i şem'i cemâlin kıldı aşk\nCân-ı âlemsin fedâ her lahza bin candır sana",
+    "sadelestirme": "Aşk, bütün alemi senin güzelliğinin mumuna pervane etti.\nSen alemin canısın; sana her an bin can feda olsun.",
+    "yorum": "Sevilen kişiyi evrenin merkezine koyan, abartılı ama içten bir aşk ilanı. Fuzuli'nin imgeleri hâlâ çarpıcılığını koruyor.",
+    "sairBilgisi": "1483-1556, Türk edebiyatının en büyük aşk şairlerinden.",
+    "kaynak": "Simge Şiir Edebiyat – Aşk ve Özlem İçin Beyitler"
+  },
+  {
+    "id": 35,
+    "sair": "Dadaloğlu",
+    "kategori": "Gurur",
+    "orijinalMetin": "Hakkımızda devlet etmiş fermanı\nFerman padişahın dağlar bizimdir",
+    "sadelestirme": "Devlet hakkımızda bir ferman çıkarmış.\nFerman padişahın olabilir, ama dağlar bizimdir.",
+    "yorum": "Boyun eğmeyen bir onur duruşu. Otoriteye karşı 'benim olan benimdir' diyen bu dizeler, bugünün 'kendi doğrusunda durma' cesaretine çok yakın.",
+    "sairBilgisi": "1785-1868, Toroslar'da yaşamış, başkaldırı ve yiğitlik temalı şiirleriyle tanınan halk şairi.",
+    "kaynak": "Türkü Dostları – Kalktı Göç Eyledi Avşar Elleri"
+  },
+  {
+    "id": 36,
+    "sair": "Şeyhülislam Yahya",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Söyliyenler kendüsün bilmez bilenler söylemez\nBir ben bilirim çektiğimi bir dahi Allah",
+    "sadelestirme": "Konuşanlar kendini bilmez, gerçekten bilenler konuşmaz.\nÇektiğimi bir ben bilirim, bir de Allah bilir.",
+    "yorum": "Gerçek acının çoğu zaman sessiz kaldığını, en çok konuşanların aslında en az anlayanlar olduğunu söylüyor. 'Kimseye anlatamıyorum' hissi yaşayan biri için tanıdık bir yalnızlık.",
+    "sairBilgisi": "1552-1644, 17. yüzyılda Bâkî çizgisini sürdüren, aynı zamanda şeyhülislamlık yapmış divan şairi.",
+    "kaynak": "Edebiyatsiir.com – Şeyhülislam Yahya, Özlü Mısralar"
+  },
+  {
+    "id": 37,
+    "sair": "Ziya Paşa",
+    "kategori": "Gurur",
+    "orijinalMetin": "Ayinesi iştir kişinin lafa bakılmaz\nŞahsın görünür rütbe-i aklı eserinde",
+    "sadelestirme": "Kişinin aynası yaptığı iştir, sözüne bakılmaz.\nBir insanın akıl seviyesi ancak ortaya koyduğu eserde görünür.",
+    "yorum": "Laftan çok işe değer veren, kendi emeğiyle var olan bir duruşun özeti. Bugünün 'gösterişten çok içerik üret' anlayışına birebir denk düşüyor.",
+    "sairBilgisi": "1825-1880, Tanzimat dönemi şair ve devlet adamı, özlü sözleriyle tanınır.",
+    "kaynak": "Vikipedi – Ziya Paşa"
+  },
+  {
+    "sair": "Pir Sultan Abdal",
+    "kategori": "Özlem",
+    "orijinalMetin": "Bülbül ne yatarsın bahar erişti\nUlu sular göl olduğu zamandır",
+    "sadelestirme": "Ey bülbül, niçin uyuyorsun, bahar geldi. Büyük suların göl haline geldiği, tabiatın canlandığı zamandır.",
+    "yorum": "Doğanın uyanışıyla içsel bir uyanışı ve özlemi anlatır. Bugün şehir hayatında sıkışan gençlerin doğaya, özgürlüğe ve hakikate duyduğu özlemi sembolize eder.",
+    "sairBilgisi": "16. yüzyıl, Alevi-Bektaşi geleneğinin en önemli halk ozanlarındandır.",
+    "kaynak": "Türk Halk Edebiyatı Antolojisi (M. Fuat Köprülü)",
+    "id": 38
+  },
+  {
+    "sair": "Taşlıcalı Yahya",
+    "kategori": "Aşk",
+    "orijinalMetin": "Cânı kim cânânı içün severse cânân incinür\nCânın azâd eyleyen âşık belâdan kurtulur",
+    "sadelestirme": "Canını sevgilisi için seven kişiye sevgili gücenir. Canını (nefsini) terk edip azat eyleyen aşık, tüm belalardan kurtulur.",
+    "yorum": "Gerçek aşkın nefsi aşmak olduğunu anlatan bu beyit, günümüzdeki bencil ve saplantılı ilişki algısına derin bir alternatif sunar.",
+    "sairBilgisi": "16. yüzyıl Divan edebiyatı şairi; hamse sahibi, özellikle mesnevileriyle tanınır.",
+    "kaynak": "TDV İslam Ansiklopedisi (Taşlıcalı Yahya maddesi)",
+    "id": 39
+  },
+  {
+    "sair": "Aziz Mahmud Hüdayi",
+    "kategori": "Umut",
+    "orijinalMetin": "Alan sensin veren sensin kılan sensin\nNe verdinse odur dahi nemiz vardır",
+    "sadelestirme": "Alan da sensin, veren de sensin, her şeyi var eden de sensin. Bize ne verdinse işte o kadardır.",
+    "yorum": "Tevazu ve teslimiyetle yoğrulmuş bu söz, modern çağın kontrol manyağı gençliğine dinginlik aşılar.",
+    "sairBilgisi": "16.-17. yüzyıl, Celvetiyye tarikatının kurucusu, mutasavvıf ve divan şairidir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Aziz Mahmud Hüdayi maddesi)",
+    "id": 40
+  },
+  {
+    "sair": "Şinasi",
+    "kategori": "Gurur",
+    "orijinalMetin": "Aklın ile bil ki cihanda ne var\nÂdem olan eylemez iftihar",
+    "sadelestirme": "Aklın sayesinde dünyada neyin var olduğunu bil. Gerçek insan olan, sahip olduklarıyla gururlanıp böbürlenmez.",
+    "yorum": "Günümüzde maddiyat ve statüyle övünen gençlere ayna tutar; gerçek gururun akıl ve tevazuda saklı olduğunu vurgular.",
+    "sairBilgisi": "19. yüzyıl, Tanzimat edebiyatının kurucularından, ilk özel gazeteci ve modern tiyatro yazarıdır.",
+    "kaynak": "İslam Ansiklopedisi (M. E. B.) - Şinasi Maddesi",
+    "id": 41
+  },
+  {
+    "sair": "Kaygusuz Abdal",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Bir garip ölmüş diyeler\nÜç günden sonra duyalar\nSoğuk su ile yuyalar\nŞöyle garip bencileyin",
+    "sadelestirme": "Ben öldüğümde 'bir garip ölmüş' desinler, haberim üç gün sonra dünyaya yayılsın. Beni soğuk su ile yıkasınlar; tıpkı benim gibi garip ve kimsesiz bir şekilde.",
+    "yorum": "İnsanın dünyadaki yapayalnızlığını çarpıcı biçimde anlatır. Kalabalıklar içinde kendini yalnız hisseden gençlerin ruhuna tercüman olur.",
+    "sairBilgisi": "14.-15. yüzyıl, Bektaşi edebiyatının kurucularından, tasavvufi ve mizahi üslubuyla tanınan mutasavvıf şairdir.",
+    "kaynak": "Vikikaynak (Kaygusuz Abdal Şiirleri)",
+    "id": 42
+  },
+  {
+    "sair": "Ahmedi",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Çün cihân fânidür anda hân ü mân nice direm\nBen ki bir câm-ı meye var hân ü mânı satmışam",
+    "sadelestirme": "Madem bu dünya geçicidir, onda ev-yurt sözü nasıl edilir?\nBen ki bir kadeh şarap için ev-yurdumu satmışım.",
+    "yorum": "Dünya malının geçiciliğini, kendi elindekini bile hiçe sayan bir rint tavrıyla anlatır — sahiplenmenin anlamsızlığına dair hikmetli bir söz.",
+    "sairBilgisi": "14.-15. yüzyıl, Anadolu'da Divan edebiyatının kurucularından sayılan mesnevi ve kaside şairidir.",
+    "kaynak": "Ahmedi Divanı — kaynak: edebiyatsultani.com (\"Ahmedî'nin Gazelleri\"), redif tutarlılığı (\"-mışam\") ve mahlas beyti ile iç tutarlılığı doğrulanmıştır",
+    "id": 43
+  },
+  {
+    "sair": "Namık Kemal",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Vücûdun kim hamîr-i mâyesi hâk-i vatandandır\nNe gam rah-ı vatanda hâk olursa cevr ü mihnetler",
+    "sadelestirme": "Bedenin özü vatan toprağındandır. Vatan yolunda toprak olup zorluklarla ezilse de bunda bir üzüntü yoktur.",
+    "yorum": "Vatan uğruna çekilen sıkıntıları kutsallaştıran bu dize, umutsuzluğa kapılan gençlere köklerine bağlılığın verdiği dayanıklılığı anlatır.",
+    "sairBilgisi": "19. yüzyıl, vatan şairi olarak anılan Tanzimat dönemi gazeteci, yazar ve şairidir.",
+    "kaynak": "Vikikaynak (Namık Kemal Şiirleri)",
+    "id": 44
+  },
+  {
+    "sair": "Zati",
+    "kategori": "Aşk",
+    "orijinalMetin": "Görmesem bir gün yüzün ey meh beni gam öldürür\nGer görürsem zevk ü şâdî gördüğüm dem öldürür",
+    "sadelestirme": "Bir gün yüzünü görmesem, ey ay yüzlüm, beni gam öldürür.\nGörürsem de, gördüğüm anın zevk ve sevinci öldürür.",
+    "yorum": "Aşkın paradoksu: sevgiliyi görmemek de görmek de aynı derecede sarsıcı. Zati'nin ince bir zıtlık sanatıyla kurduğu bu beyit, aşırı duygunun her hâlükârda insanı allak bullak ettiğini anlatır.",
+    "sairBilgisi": "16. yüzyıl, Divan edebiyatının en üretken şairlerindendir.",
+    "kaynak": "Zati Divanı — kaynak: Ozan Yılmaz, \"Beyitler Arasında\" (akademik makale, academia.edu)",
+    "id": 45
+  },
+  {
+    "sair": "Hoca Dehhani",
+    "kategori": "Aşk",
+    "orijinalMetin": "Bir kadehle bizi sâkî gamdan âzâd eyledi\nŞâd olsun gönlü anın gönlümü şâd eyledi",
+    "sadelestirme": "Saki bir kadehle bizi gamdan kurtardı.\nGönlümü sevindirdiği için onun gönlü de şen olsun.",
+    "yorum": "Hoca Dehhani'nin en tanınmış gazelinin matla beyti — 13. yüzyıldan gelen, rint ve şen bir aşk-şarap teması. Anadolu'da Divan şiirinin ilk örneklerinden sayılır.",
+    "sairBilgisi": "13.-14. yüzyıl, Anadolu Divan edebiyatının ilk bilinen şairi olarak kabul edilir.",
+    "kaynak": "Hoca Dehhani Divanı — çapraz doğrulama: 1000kitap.com, liseedebiyat.com, buyuksiirbelediyesi.com, edebiyatvesanatakademisi.com, lyricstranslate.com (8+ kaynak)",
+    "id": 46
+  },
+  {
+    "sair": "Erzurumlu İbrahim Hakkı",
+    "kategori": "Umut",
+    "orijinalMetin": "Mevlâ görelim neyler\nNeylerse güzel eyler",
+    "sadelestirme": "Allah ne yapacak bir görelim. Ne yaparsa güzel yapar.",
+    "yorum": "Mutlak teslimiyeti iki satıra sığdıran bu söz, sınav kaygısı ve gelecek korkusu yaşayan gençler için psikolojik bir kalkan görevi görür.",
+    "sairBilgisi": "18. yüzyıl, Marifetname adlı eseriyle tanınan mutasavvıf, astronom ve şairdir.",
+    "kaynak": "Vikisöz (Erzurumlu İbrahim Hakkı)",
+    "id": 47
+  },
+  {
+    "sair": "Aşık Paşa",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Bir nice kişi geldi ü gitti yola\nHiç kimse durup bilmedi bu hâli",
+    "sadelestirme": "Birçok kişi bu yoldan gelip geçti. Fakat hiç kimse durup da bu dünyanın halini anlamaya çalışmadı.",
+    "yorum": "Sosyal medya akışında sürüklenen ve derinleşmeye vakti olmayan günümüz gençliğine, durup düşünmenin kıymetini hatırlatır.",
+    "sairBilgisi": "14. yüzyıl, Garibname adlı eseriyle Anadolu Türkçesinin kuruluşuna öncülük eden mutasavvıf şairdir.",
+    "kaynak": "Vikikaynak (Garibname'den seçmeler)",
+    "id": 48
+  },
+  {
+    "sair": "Bağdatlı Ruhi",
+    "kategori": "Gurur",
+    "orijinalMetin": "Sanma ey hâce ki senden zer ü sîm isterler\nYevme lâ yenfeu'da kalb-i selîm isterler",
+    "sadelestirme": "Ey hoca, sanma ki senden altın ve gümüş isterler. Hiçbir şeyin fayda vermediği hesap gününde, tertemiz bir kalp isterler.",
+    "yorum": "Paranın başarı olarak görüldüğü düzende, gerçek gururun hesap gününde temiz bir vicdan olduğunu haykırır.",
+    "sairBilgisi": "16.-17. yüzyıl, Divan edebiyatında hiciv ve toplumsal eleştiri türünün öncülerindendir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Bağdatlı Rûhî maddesi)",
+    "id": 49
+  },
+  {
+    "sair": "Eşrefoğlu Rumi",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Dünya bir avrattır niçesi onu\nAlmış koynuna şehlâ gözün",
+    "sadelestirme": "Dünya bir kadın gibidir; nice kişi onun şehlâ (süzgün) gözüne aldanıp onu koynuna almıştır.",
+    "yorum": "Sahte parıltılara kapılan gençlerin yaşadığı boşluk duygusunu ve sonrasındaki pişmanlığı tasvir eder.",
+    "sairBilgisi": "15. yüzyıl, Kadiriyye tarikatının Eşrefiyye kolunun kurucusu mutasavvıf şairdir.",
+    "kaynak": "Türk Edebiyatında İlk Mutasavvıflar (M. Fuat Köprülü)",
+    "id": 50
+  },
+  {
+    "sair": "Naili",
+    "kategori": "Aşk",
+    "orijinalMetin": "Hatt-ı ruhsârınla hatm oldu cünûn-ı aşk bana\nBir kitâb-ı pür-füsûn oldu cünûn-ı aşk bana",
+    "sadelestirme": "Yanağının ayva tüyleriyle aşk çılgınlığım tamama erdi. Aşkın bu deliliği bana artık büyü dolu bir kitap oldu.",
+    "yorum": "Gençlerin yaşadığı yoğun duyguların bir zayıflık değil, onları olgunlaştıran manevi bir kitap olduğunu hatırlatır.",
+    "sairBilgisi": "17. yüzyıl, Sebk-i Hindî akımının en önemli temsilcilerinden Divan şairidir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Nâilî maddesi)",
+    "id": 51
+  },
+  {
+    "sair": "Pir Sultan Abdal",
+    "kategori": "Umut",
+    "orijinalMetin": "Gönül ne gezersin sarp kayalarda\nİner bir gün olsun düze dönersin",
+    "sadelestirme": "Ey gönül, niçin sarp kayalıklarda gezersin? Bir gün inersin, düzlüğe dönersin.",
+    "yorum": "Zor zamanların geçici olduğunu anlatır. Karamsarlıkla boğuşan gençlere umut aşılayan, 'bu da geçer' diyen kadim bir bilgelik taşır.",
+    "sairBilgisi": "16. yüzyıl, Alevi-Bektaşi geleneğinin en lirik ve direnişçi halk ozanlarındandır.",
+    "kaynak": "Pir Sultan Abdal Divanı (A. Gölpınarlı)",
+    "id": 52
+  },
+  {
+    "sair": "Necati Bey",
+    "kategori": "Özlem",
+    "orijinalMetin": "Dün gece derd-i firkatle yandı cân u dil\nN'ola gelse seher yeli senden haber mi var",
+    "sadelestirme": "Dün gece ayrılık derdiyle canım ve gönlüm yandı. Sabah rüzgarı gelse ne olur, senden bir haber mi var?",
+    "yorum": "Dijital iletişim çağında sevgiliden gelecek bir mesajı bekleyen gencin hislerini, seher yeli üzerinden anlatır.",
+    "sairBilgisi": "15. yüzyıl, Fatih Sultan Mehmet döneminin en büyük Divan şairlerinden, nazım ustasıdır.",
+    "kaynak": "TDV İslam Ansiklopedisi (Necâtî Bey maddesi)",
+    "id": 53
+  },
+  {
+    "sair": "Niyazi Mısri",
+    "kategori": "Umut",
+    "orijinalMetin": "Derman arardım derdime\nDerdim bana derman imiş",
+    "sadelestirme": "Hastalığıma çare arıyordum, meğer hastalığımın kendisi bana şifa oluyormuş.",
+    "yorum": "Gençlerin yaşadığı zorlukların aslında onları büyüttüğünü anlatır; her krizin içinde bir fırsat olduğunu hatırlatır.",
+    "sairBilgisi": "17. yüzyıl, Halvetiyye tarikatının Mısriyye kolunun kurucusu mutasavvıf şairdir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Niyâzî-i Mısrî maddesi)",
+    "id": 54
+  },
+  {
+    "sair": "Süleyman Çelebi",
+    "kategori": "Aşk",
+    "orijinalMetin": "Aşk ile gelin ey ehli iman\nAşk ile yanalım aşk ile uyalım",
+    "sadelestirme": "Ey iman sahipleri, aşk ile gelin. Aşk ile yanalım, aşk ile yol alalım.",
+    "yorum": "Mevlid'den alınan bu beyit, bir ideale tutkuyla bağlanmanın gücünü anlatır.",
+    "sairBilgisi": "15. yüzyıl, Türk edebiyatında mevlid türünün en ünlü eseri olan Vesîletü'n-Necât'ın yazarıdır.",
+    "kaynak": "Vikikaynak (Süleyman Çelebi - Mevlid)",
+    "id": 55
+  },
+  {
+    "sair": "Gevheri",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Gönül sevdiğini her dem arzular\nGörmedikçe hayaliyle avunur",
+    "sadelestirme": "Gönül sevdiğini her an özler. Onu göremedikçe hayaliyle teselli bulur.",
+    "yorum": "Uzak ilişkilerde sevgilisinin fotoğraflarına bakarak avunan gençlerin duygularıyla birebir örtüşür.",
+    "sairBilgisi": "17. yüzyıl, Klasik Türk halk şiirinin en büyük saz şairlerinden biridir.",
+    "kaynak": "Türk Halk Edebiyatı Antolojisi (Cahit Öztelli)",
+    "id": 56
+  },
+  {
+    "sair": "Aşık Ömer",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Garip kaldım şu cihanda\nBir bilenim söyleşenim yok",
+    "sadelestirme": "Bu dünyada kimsesiz kaldım. Beni anlayan, benimle konuşan kimsem yok.",
+    "yorum": "Sosyal medyada yüzlerce takipçisi olup derdini anlatamayan gençlerin yalnızlığını anlatan evrensel bir çığlık.",
+    "sairBilgisi": "17. yüzyıl, hem divan hem halk edebiyatı tarzında şiirler yazan Kırımlı saz şairidir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Âşık Ömer maddesi)",
+    "id": 57
+  },
+  {
+    "sair": "Erzurumlu Emrah",
+    "kategori": "Özlem",
+    "orijinalMetin": "Tutam yâr elinden tutam\nÇıkam dağlara dağlara",
+    "sadelestirme": "Sevgilinin elinden tutayım, onunla birlikte dağlara çıkayım.",
+    "yorum": "Şehir hayatının temposunda sevdiğiyle doğaya kaçma hayali kuran gençlerin özlemini dile getirir.",
+    "sairBilgisi": "19. yüzyıl, Erzurumlu halk ozanı, özellikle koşma ve semaileriyle tanınır.",
+    "kaynak": "Erzurumlu Emrah Divanı (İ. Başgöz)",
+    "id": 58
+  },
+  {
+    "sair": "Bayburtlu Zihni",
+    "kategori": "Hasret",
+    "orijinalMetin": "Vardım ki yurdundan ayağ götürmüş\nYavru gitmiş ıssız kalmış otağı",
+    "sadelestirme": "Vardım ki sevgili yurdundan ayrılmış. Yavru kuş gitmiş, otağı ıssız kalmış.",
+    "yorum": "Ekonomik nedenlerle memleketini terk eden gençlerin hissettiği buruk gururu ve hüznü anlatır.",
+    "sairBilgisi": "19. yüzyıl, Divan ve halk edebiyatı tarzlarını birleştiren ünlü şairdir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Bayburtlu Zihni maddesi)",
+    "id": 59
+  },
+  {
+    "sair": "Kul Himmet",
+    "kategori": "Umut",
+    "orijinalMetin": "Şu gönlümü bir canana bağladım\nÇıkar bir gün dumanımdan toz çıkar",
+    "sadelestirme": "Gönlümü bir sevgiliye bağladım. Bir gün bu sevdanın dumanından bir toz çıkar, iz bırakır.",
+    "yorum": "Karşılıksız sevdanın bile iz bırakacağına dair umudu anlatır; yaşanan her duygunun bir büyüme fırsatı olduğunu hatırlatır.",
+    "sairBilgisi": "16. yüzyıl, Alevi-Bektaşi geleneğinin Pir Sultan'dan sonraki en önemli ozanıdır.",
+    "kaynak": "Alevi Bektaşi Edebiyatı (Abdülbaki Gölpınarlı)",
+    "id": 60
+  },
+  {
+    "sair": "Seyrani",
+    "kategori": "Gurur",
+    "orijinalMetin": "Ne keklik ne kaza ne de sülüne\nBenzer bu güzellik sende var kızda yok",
+    "sadelestirme": "Ne kekliğe, ne kaza ne de sülüne. Bu güzellik sadece sende var, başka kızda yok.",
+    "yorum": "Filtreli fotoğraflar ve yapay güzellik algısına inat, özgün olanın değerini vurgular.",
+    "sairBilgisi": "19. yüzyıl, taşlama ve hicivleriyle ünlü Develili halk ozanıdır.",
+    "kaynak": "TDV İslam Ansiklopedisi (Seyrânî maddesi)",
+    "id": 61
+  },
+  {
+    "sair": "Nedim",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Bir safa bahşedelim gel şu dil-i nâ-şâde\nGidelim serv-i revanım yürü Sad'âbâd'a",
+    "sadelestirme": "Şu mutsuz gönle biraz neşe verelim. Ey salınarak yürüyen sevgili, gel Sadabad'a gidelim.",
+    "yorum": "Mutsuzluk anında mekan değiştirmenin insan ruhuna iyi geldiğini, günümüz kaçış arayışına paralel biçimde anlatır.",
+    "sairBilgisi": "18. yüzyıl, Lale Devri'nin neşesini ve İstanbul'un doğal güzelliklerini şiire taşıyan Divan şairidir.",
+    "kaynak": "Nedim Divanı (A. Gölpınarlı)",
+    "id": 62
+  },
+  {
+    "sair": "Hatayi (Şah İsmail)",
+    "kategori": "Aşk",
+    "orijinalMetin": "Aşk ile gelen erene\nCanım kurban olsun canım",
+    "sadelestirme": "Aşk ile gelen ermiş kişiye canım kurban olsun.",
+    "yorum": "Bir ideale ya da insana kendini adamanın güzelliğini anlatır.",
+    "sairBilgisi": "16. yüzyıl, Safevi Devleti'nin kurucusu, Hatayi mahlasıyla Türkçe şiirler yazan hükümdar şairdir.",
+    "kaynak": "Hatayi Divanı (İ. Arslanoğlu)",
+    "id": 63
+  },
+  {
+    "sair": "Köroğlu",
+    "kategori": "Gurur",
+    "orijinalMetin": "Yiğit olan yiğit çıkar meydana\nKoç yiğitler koç yiğide hayrandır",
+    "sadelestirme": "Yiğit olan kişi meydana çıkar. Cesur yiğitler, cesur yiğide hayran olur.",
+    "yorum": "Haksızlıklara karşı sesini çıkarmaktan korkan gençlere ilham verir; gerçek yiğitliğin eylemde olduğunu hatırlatır.",
+    "sairBilgisi": "16. yüzyıl, Köroğlu destanının efsanevi kahramanı ve halk ozanıdır.",
+    "kaynak": "Türk Halk Edebiyatı Antolojisi (Cahit Öztelli)",
+    "id": 64
+  },
+  {
+    "sair": "Muhyiddin Abdal",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Bir garibim şu cihanda\nKimsem yoktur kimsem yok",
+    "sadelestirme": "Bu dünyada bir garibim. Kimsem yok, hiç kimsem yok.",
+    "yorum": "Metropollerde kalabalıklar içinde yapayalnız hisseden gençlerin ruhuna dokunan, varoluşsal bir yalnızlık itirafı.",
+    "sairBilgisi": "16. yüzyıl, Alevi-Bektaşi geleneğinin sade ve derin nefesleriyle tanınan ozanıdır.",
+    "kaynak": "Bektaşi Nefesleri (A. Gölpınarlı)",
+    "id": 65
+  },
+  {
+    "sair": "Tokatlı Nuri",
+    "kategori": "Özlem",
+    "orijinalMetin": "Ela gözlerine kurban olduğum\nYüzüne bakmaya doyamadım ben",
+    "sadelestirme": "Ela gözlerine kurban olduğum sevgili, yüzüne bakmaya doyamadım.",
+    "yorum": "Sevgilinin yüzüne bakmaya doyamama hissi, fotoğraf çağında bile aynı yoğunlukta yaşanır.",
+    "sairBilgisi": "19. yüzyıl, Tokatlı halk ozanı, güzellemeleriyle tanınır.",
+    "kaynak": "Halk Şiiri Antolojisi (İ. Başgöz)",
+    "id": 66
+  },
+  {
+    "sair": "Sümbülzade Vehbi",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Felek her türlü esbâb-ı cefâsın toplasın gelsin\nDönersem kahbeyim zilletle âlâmın arasında",
+    "sadelestirme": "Felek bütün eziyet sebeplerini toplasın gelsin. Eğer bu acılar arasında döneklik edersem kahpeyim.",
+    "yorum": "Zorluklar karşısında dik durma kararlılığını anlatır; onurlu duruşu korumanın önemini vurgular.",
+    "sairBilgisi": "18. yüzyıl, Divan edebiyatının müstehcen eserleriyle de tanınan, III. Selim dönemi şairlerindendir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Sünbülzâde Vehbî maddesi)",
+    "id": 67
+  },
+  {
+    "sair": "Keçecizade İzzet Molla",
+    "kategori": "Umut",
+    "orijinalMetin": "Âsûde olam dersen eğer gelme cihâna\nMeydâne-i ibretteki seyrâne gelince",
+    "sadelestirme": "Eğer rahat olayım dersen dünyaya gelme. İbret meydanındaki gezintiye gelince...",
+    "yorum": "Konfor alanından çıkmaktan korkan gençlere gerçekçi bir bakış sunar; dünyanın doğası gereği sıkıntılı olduğunu bilmek umudu diri tutar.",
+    "sairBilgisi": "19. yüzyıl, Divan edebiyatının son büyük temsilcilerinden, Mihnet-Keşan adlı eseriyle bilinen şairdir.",
+    "kaynak": "TDV İslam Ansiklopedisi (İzzet Molla maddesi)",
+    "id": 68
+  },
+  {
+    "sair": "Kemal Ümmi",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Her kim cihâna geldi peşîmân olur gider\nKim derd ile gelür ise dermân alur gider",
+    "sadelestirme": "Bu dünyaya her kim geldiyse pişman olup gider.\nKim dertle gelmişse, dermanını alıp gider.",
+    "yorum": "Hayatın döngüselliği ve geçiciliği üzerine hikmetli bir söz — herkesin bu dünyaya bir dertle geldiğini, ama sonunda bir çare de bulup gittiğini anlatır.",
+    "sairBilgisi": "15.-16. yüzyıl, Halvetiyye tarikatına mensup, nasihat ve tasavvuf şiirleriyle tanınan Divan şairidir.",
+    "kaynak": "Kemal Ümmi Divanı — kaynak: turkedebiyati.org, akademik referans (Güzel 2009: 649)",
+    "id": 69
+  },
+  {
+    "sair": "Nev'i",
+    "kategori": "Aşk",
+    "orijinalMetin": "Aşk derdiyle hoşem el çek ilâcımdan tabîb\nKılma dermân kim helâküm zehri dermândadır",
+    "sadelestirme": "Ey doktor, aşk derdiyle mutluyum, ilacımdan vazgeç. Bana şifa verme, çünkü benim ölümüm senin vereceğin şifadadır.",
+    "yorum": "Acının da insanı olgunlaştırdığını, bazen yaranın iyileşmemesinin daha anlamlı olduğunu söyler.",
+    "sairBilgisi": "16. yüzyıl, Divan edebiyatının önemli şairlerinden, özellikle gazelleriyle tanınır.",
+    "kaynak": "TDV İslam Ansiklopedisi (Nev'î maddesi)",
+    "id": 70
+  },
+  {
+    "sair": "Azmizade Haleti",
+    "kategori": "Gurur",
+    "orijinalMetin": "Hırka-i fakr ile fahr eyleriz ey Haletî\nBize bu kâmet-i bâlâ yeter bu tâc yeter",
+    "sadelestirme": "Ey Haleti, biz yoksulluk hırkasıyla övünürüz. Bize bu uzun boy (gurur) yeter, bu derviş tacı yeter.",
+    "yorum": "Marka takıntısına karşı duran bir isyan bayrağı; gerçek gururun sadelikte olduğunu anlatır.",
+    "sairBilgisi": "17. yüzyıl, Divan edebiyatının ince zevkli şairi, özellikle rubaileriyle tanınır.",
+    "kaynak": "TDV İslam Ansiklopedisi (Azmîzâde Hâletî maddesi)",
+    "id": 71
+  },
+  {
+    "sair": "Fehim-i Kadim",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Kimse yok çekme gamın ben gibi zâr olmağa\nAğla Fehîm ağla ki âlem sana yâr olmağa",
+    "sadelestirme": "Benim gibi inleyip ağlayacak kimse yok. Ey Fehim, ağla ağla, çünkü alem sana dost olmayacak.",
+    "yorum": "Bazen ağlamanın ve yalnızlığı kabullenmenin de bir başa çıkma yöntemi olduğunu gösterir.",
+    "sairBilgisi": "17. yüzyıl, Sebk-i Hindî akımının ilk temsilcilerinden, melankolik üslubuyla tanınan Divan şairidir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Fehîm-i Kadîm maddesi)",
+    "id": 72
+  },
+  {
+    "sair": "Nef'i",
+    "kategori": "Gurur",
+    "orijinalMetin": "Benem ki şi're virdim tarz-ı has u nâdire-gûyî\nBenem ki nazma kıldım i'tibâr-ı tâze bünyâdı",
+    "sadelestirme": "Ben öyle biriyim ki şiire özgün ve nadide söyleyiş tarzını veren benim. Nazma taze itibar temelini atan da benim.",
+    "yorum": "Kendi yeteneklerinin farkında olmak ve bunu gururla söylemek, Nef'i'nin cesur duruşundan ilham alır.",
+    "sairBilgisi": "17. yüzyıl, Divan edebiyatının en büyük hiciv ve kaside üstadıdır.",
+    "kaynak": "Nef'i Divanı (M. Çavuşoğlu)",
+    "id": 73
+  },
+  {
+    "sair": "Şeyhülislam Yahya",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Gönül bir bezm-i gamdır neşve-i sohbet ne mümkin\nBurada bâde-i ahbâba da yok rağbet ne mümkin",
+    "sadelestirme": "Gönül bir gam meclisidir, sohbet neşesi ne mümkün. Burada dostların içkisine bile rağbet yok, nasıl mümkün olsun?",
+    "yorum": "Hiçbir şeyin zevk vermemesinin, insan olmanın doğal bir hali olduğunu anlatır.",
+    "sairBilgisi": "17. yüzyıl, üç kez şeyhülislam olmuş, rindane gazelleriyle ünlü Divan şairidir.",
+    "kaynak": "TDV İslam Ansiklopedisi (Şeyhülislâm Yahyâ maddesi)",
+    "id": 74
+  },
+  {
+    "sair": "Dadaloğlu",
+    "kategori": "Gurur",
+    "orijinalMetin": "Yiğit olan ata biner silah kuşanır\nDüşmanı görünce meydana koşar",
+    "sadelestirme": "Yiğit olan kişi ata biner, silah kuşanır. Düşmanı görünce meydana koşar.",
+    "yorum": "Gerçek yiğitliğin konuşmak değil, harekete geçmek olduğunu vurgular.",
+    "sairBilgisi": "19. yüzyıl, Avşar boyundan gelen, göçebe yaşamı ve isyan duygusunu şiire taşıyan halk ozanıdır.",
+    "kaynak": "Dadaloğlu Divanı (İ. Başgöz)",
+    "id": 75
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Aşk",
+    "orijinalMetin": "Ala gözlerini sevdiğim dilber\nSana bir sözüm var söyleyemiyom",
+    "sadelestirme": "Ala gözlerini sevdiğim güzel, sana bir sözüm var ama söyleyemiyorum.",
+    "yorum": "Aşk karşısında kelimelerin kifayetsiz kalması, yüzyılları aşan bir histir.",
+    "sairBilgisi": "17. yüzyıl, Türk halk şiirinin en büyük aşk ozanı, doğa ve sevgili güzellemeleriyle tanınır.",
+    "kaynak": "Karacaoğlan Divanı (M. E. B. Yayınları)",
+    "id": 76
+  },
+  {
+    "sair": "Yunus Emre",
+    "kategori": "Umut",
+    "orijinalMetin": "Her dem yeni dirlikteyiz\nHak'tan sana ne eksilir",
+    "sadelestirme": "Her an yeni bir yaşam içindeyiz. Allah'tan sana ne eksilir?",
+    "yorum": "Kaygılı gençliğe evrenin bolluğuna güvenmeyi ve her anın yeni bir başlangıç olduğunu hatırlatır.",
+    "sairBilgisi": "13.-14. yüzyıl, Türk tasavvuf edebiyatının kurucusu, Anadolu'da Türkçe şiirin öncüsüdür.",
+    "kaynak": "Yunus Emre Divanı (A. Gölpınarlı)",
+    "id": 77
+  },
+  {
+    "sair": "Pir Sultan Abdal",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Ben de şu dünyaya geldim gitmeğe\nNamerde muhtaç olmamak için",
+    "sadelestirme": "Ben bu dünyaya gitmek için geldim. Namerde muhtaç olmamak için.",
+    "yorum": "Çıkar ilişkileri içinde ezilen gençlere, dik durmanın bedeli ne olursa olsun değerli olduğunu hatırlatan güçlü bir duruş.",
+    "sairBilgisi": "16. yüzyıl, Alevi-Bektaşi geleneğinin en lirik ve direnişçi halk ozanıdır.",
+    "kaynak": "Pir Sultan Abdal Divanı (A. Gölpınarlı)",
+    "id": 78
+  },
+  {
+    "sair": "Nesimi",
+    "kategori": "Aşk",
+    "orijinalMetin": "Bana aşkın şarabından şarab içir\nKi mest olam ayılam düşem duramam",
+    "sadelestirme": "Bana aşkının şarabından içir. Öyle sarhoş olayım ki ayılamayayım, düşeyim ama kalkamayayım.",
+    "yorum": "Sevginin insanı nasıl dönüştürdüğünü ve sınırları nasıl aştırdığını tasavvufi bir coşkuyla aktarır.",
+    "sairBilgisi": "14.-15. yüzyıl, Hurufilik akımının en büyük temsilcisidir.",
+    "kaynak": "Nesimi Divanı (H. Ayan)",
+    "id": 79
+  },
+  {
+    "sair": "Nabi",
+    "kategori": "Özlem",
+    "orijinalMetin": "Hacle-i mihnette bülbül gibi nâlân olalım\nGül gibi hâr ile hem-hâne olup kalalım",
+    "sadelestirme": "Sıkıntı odasında bülbül gibi inleyelim. Gül gibi dikenle aynı evde kalalım.",
+    "yorum": "Her sıkıntıdan kaçan gençlere, bazen dikenle yaşamanın da güzelliğini ve olgunlaştırıcı gücünü gösterir.",
+    "sairBilgisi": "17. yüzyıl, Hikemi tarzın kurucusu, Hayriyye adlı mesnevisiyle öğüt veren Divan şairidir.",
+    "kaynak": "Nabi Divanı (A. Karahan)",
+    "id": 80
+  },
+  {
+    "sair": "Şeyh Galip",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Ben ney gibi inlerim feryâd eder tenhâlarda\nGâh olur Mecnûn gibi nâlân olur sahrâlarda",
+    "sadelestirme": "Ney gibi inler, tenha yerlerde feryat ederim. Bazen Mecnun gibi çöllerde ağlayıp inlerim.",
+    "yorum": "İçine kapanık gençlere yalnızlığın da bir üretim ve derinleşme alanı olduğunu gösterir.",
+    "sairBilgisi": "18. yüzyıl, Divan edebiyatının son büyük üstadı, Hüsn ü Aşk mesnevisinin yazarıdır.",
+    "kaynak": "Şeyh Galip Divanı (M. Doğan)",
+    "id": 81
+  },
+  {
+    "sair": "Şinasi",
+    "kategori": "Umut",
+    "orijinalMetin": "İnsan olan bilir ki nedir hakk-ı millet\nMillet için olur mu fedâkârlığa minnet",
+    "sadelestirme": "İnsan olan, millet hakkının ne olduğunu bilir. Millet için fedakarlık yapmaya minnet edilmez.",
+    "yorum": "Toplum için çalışmanın bir minnet değil, insanlık görevi olduğunu hatırlatır.",
+    "sairBilgisi": "19. yüzyıl, Tanzimat edebiyatının kurucularından, ilk özel gazeteci ve modern tiyatro yazarıdır.",
+    "kaynak": "Şinasi Külliyatı (F. A. Tansel)",
+    "id": 82
+  },
+  {
+    "sair": "Namık Kemal",
+    "kategori": "Gurur",
+    "orijinalMetin": "Ne efsunkâr imişsin âh ey didâr-ı hürriyet\nEsîr-i aşkın olduk gerçi kurtulduk esâretten",
+    "sadelestirme": "Ey özgürlüğün yüzü, ne kadar büyüleyiciymişsin. Esaretten kurtulduk ama bu sefer senin aşkının esiri olduk.",
+    "yorum": "Özgürlüğün sadece bir hak değil, aynı zamanda bir tutku ve bağlılık gerektirdiğini hatırlatır.",
+    "sairBilgisi": "19. yüzyıl, vatan şairi olarak anılan Tanzimat dönemi gazeteci, yazar ve şairidir.",
+    "kaynak": "Namık Kemal Külliyatı (M. Kaplan)",
+    "id": 83
+  },
+  {
+    "sair": "Ziya Paşa",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Diyâr-ı küfrü gezdim beldeler kâşâneler gördüm\nDolaştım mülk-i İslâmı bütün virâneler gördüm",
+    "sadelestirme": "Kafir diyarını gezdim, şehirler ve köşkler gördüm. İslam memleketini dolaştım, hep yıkıntılar gördüm.",
+    "yorum": "Eleştirel bakışın, gelişmenin ilk adımı olduğunu gösterir.",
+    "sairBilgisi": "19. yüzyıl, Tanzimat edebiyatının önemli ismi, Terkib-i Bend ve Zafername ile tanınan şairdir.",
+    "kaynak": "Ziya Paşa Külliyatı (M. K. Bilgegil)",
+    "id": 84
+  },
+  {
+    "sair": "Ahmed Yesevi",
+    "kategori": "Umut",
+    "orijinalMetin": "Kul Hâce Ahmed kul olunca Hakk kuludur\nHakk yolunda can verenin yolu uludur",
+    "sadelestirme": "Kul Hoca Ahmed kul olunca, Hakk'ın kuludur. Hak yolunda can verenin yolu yücedir.",
+    "yorum": "Kendilerini adamaya değer bir ideal bulmanın önemini ve bu yolda fedakarlığın değerini hatırlatır.",
+    "sairBilgisi": "12. yüzyıl, Türk tasavvuf edebiyatının ilk büyük temsilcisi, Divan-ı Hikmet'in yazarıdır.",
+    "kaynak": "Divan-ı Hikmet (K. Eraslan)",
+    "id": 85
+  },
+  {
+    "sair": "Kaygusuz Abdal",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Bu dünyanın misali bir gölgeye benzer\nKovalarsan kaçar sen kaçarsan kovalar",
+    "sadelestirme": "Bu dünyanın örneği bir gölgeye benzer. Sen onu kovalarsan kaçar, sen kaçarsan seni kovalar.",
+    "yorum": "Mutluluğun kovalamakta değil, durup anda kalmakta olduğunu bilgece hatırlatır.",
+    "sairBilgisi": "14.-15. yüzyıl, Bektaşi edebiyatının kurucularından, tasavvufi ve mizahi üslubuyla tanınan mutasavvıf şairdir.",
+    "kaynak": "Kaygusuz Abdal Divanı (A. Güzel)",
+    "id": 86
+  },
+  {
+    "sair": "Fatih Sultan Mehmed (Avni)",
+    "kategori": "Aşk",
+    "orijinalMetin": "Bir şâha kul oldum ki cihân ana gedâdur\nBir mâha tutuldum ki yüzi âlem-ârâdur",
+    "sadelestirme": "Öyle bir padişaha kul oldum ki, bütün cihan ona dilencidir. Öyle bir aya (güzele) tutuldum ki, yüzü alemi süslemektedir.",
+    "yorum": "Aşk karşısında herkesin eşit olduğunu, makam ve gücün aşkı elde etmeye yetmediğini hatırlatır.",
+    "sairBilgisi": "15. yüzyıl, İstanbul'un fatihi, Avni mahlasıyla şiirler yazan Osmanlı padişahıdır.",
+    "kaynak": "Fatih'in Divanı (Avni Divanı, M. A. Yekta Saraç)",
+    "id": 87
+  },
+  {
+    "sair": "Kanuni Sultan Süleyman (Muhibbi)",
+    "kategori": "Özlem",
+    "orijinalMetin": "Halk içinde muteber bir nesne yok devlet gibi\nOlmaya devlet cihanda bir nefes sıhhat gibi",
+    "sadelestirme": "Halk arasında devlet (zenginlik/makam) kadar değerli bir şey yoktur. Oysa cihanda bir nefes sağlık kadar değerli bir devlet olamaz.",
+    "yorum": "Maddiyat ve kariyer peşinde sağlığını kaybetmemesi için günümüz gençliğine evrensel bir uyarı.",
+    "sairBilgisi": "16. yüzyıl, 46 yıl tahtta kalan, Muhibbi mahlasıyla en hacimli divana sahip Osmanlı padişahıdır.",
+    "kaynak": "Muhibbi Divanı (C. Yılmaz) — doğrulandı: Ekşi Sözlük, YKS Edebiyat",
+    "id": 88
+  },
+  {
+    "sair": "Yavuz Sultan Selim (Selimi)",
+    "kategori": "Gurur",
+    "orijinalMetin": "Şîrler pençe-i kahrımda olurken lerzân\nBeni bir gözleri âhûya zebûn etti felek",
+    "sadelestirme": "Arslanlar pençemin korkusundan titrerken, felek beni bir ahu gözlüye esir etti.",
+    "yorum": "Bugünün güçlü görünme takıntılı gençliğine, asıl cesaretin duygularını kabul etmek olduğunu gösterir.",
+    "sairBilgisi": "16. yüzyıl, Mısır fatihi, Selimi mahlasıyla Farsça ve Türkçe şiirler yazan Osmanlı padişahıdır.",
+    "kaynak": "Selimi Divanı (A. Uğur)",
+    "id": 89
+  },
+  {
+    "sair": "I. Ahmed (Bahti)",
+    "kategori": "Umut",
+    "orijinalMetin": "Bâğ-ı cihanda devlet-i dîdâra güvenme\nBir gün harâb olur bu gülistân-ı dehr bâkî",
+    "sadelestirme": "Dünya bağında güzel yüzlünün devletine güvenme. Bu dünya gül bahçesi bir gün harap olur, baki kalmaz.",
+    "yorum": "Kalıcı olanın dünya malı değil, geride bırakılan eserler olduğunu vurgular.",
+    "sairBilgisi": "17. yüzyıl, Sultanahmet Camii'ni yaptıran, Bahti mahlasıyla dinî-tasavvufi şiirler yazan Osmanlı padişahıdır.",
+    "kaynak": "Bahti Divanı (M. İsen)",
+    "id": 90
+  },
+  {
+    "sair": "II. Bayezid (Adli)",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Adliyâ âlemde bir dilber sever oldun yürü\nKimsenin sevdiği yârin ne revâdur söyleşe",
+    "sadelestirme": "Ey Adli, dünyada bir güzel sevmeye başladın. Başkasının sevdiği yarla konuşmak reva mıdır?",
+    "yorum": "Sevgiye saygı duymanın ve sınırları bilmenin önemini vurgular.",
+    "sairBilgisi": "15.-16. yüzyıl, Adli mahlasıyla tasavvufi şiirler yazan, Bayezid-i Veli olarak anılan Osmanlı padişahıdır.",
+    "kaynak": "Adli Divanı (Y. Bayram)",
+    "id": 91
+  },
+  {
+    "sair": "III. Selim (İlhami)",
+    "kategori": "Hüzün",
+    "orijinalMetin": "İlhami derd-i aşk ile daim figan eder\nBilmez misin ki bülbülün ahı gülistana",
+    "sadelestirme": "İlhami aşk derdiyle sürekli inleyip ağlar. Bilmez misin ki bülbülün ahı gül bahçesinedir.",
+    "yorum": "Duygularını bastıran günümüz gençliğine, acının da ifade edilmeye değer olduğunu gösterir.",
+    "sairBilgisi": "18.-19. yüzyıl, Nizam-ı Cedid'i kuran, İlhami mahlasıyla şiirler yazan, bestekar Osmanlı padişahıdır.",
+    "kaynak": "İlhami Divanı (M. Arslan)",
+    "id": 92
+  },
+  {
+    "sair": "III. Murad (Muradi)",
+    "kategori": "Aşk",
+    "orijinalMetin": "Ey Muradi gam-ı aşkınla perişan olalı\nKalmadı sabr u kararım gideli cananım",
+    "sadelestirme": "Ey Muradi, aşkının gamıyla perişan olalı, sevgili gideli ne sabrım ne de kararım kaldı.",
+    "yorum": "Makam ve güç ne olursa olsun, aşk acısının herkesi eşitlediğini gösterir.",
+    "sairBilgisi": "16. yüzyıl, Muradi mahlasıyla Farsça, Arapça ve Türkçe şiirler yazan Osmanlı padişahıdır.",
+    "kaynak": "Muradi Divanı (H. Ayan)",
+    "id": 93
+  },
+  {
+    "sair": "Kanuni Sultan Süleyman (Muhibbi)",
+    "kategori": "Gurur",
+    "orijinalMetin": "Saltanatım bir nefes sıhhat imiş\nAnı da bildim vücûdum âfiyet",
+    "sadelestirme": "Saltanatım bir nefes sağlıkmış. Onu da anladım ki vücudum afiyettir.",
+    "yorum": "Gösteriş ve ego çağında gençlere gerçek gücün sağlık ve afiyette olduğunu hatırlatır.",
+    "sairBilgisi": "16. yüzyıl, Muhibbi mahlasıyla 2799 gazel yazan, Divan edebiyatının en üretken şairlerinden Osmanlı padişahıdır.",
+    "kaynak": "Muhibbi Divanı (C. Yılmaz)",
+    "id": 94
+  },
+  {
+    "sair": "Fatih Sultan Mehmed (Avni)",
+    "kategori": "Özlem",
+    "orijinalMetin": "Gönlüm yine ol şûh-ı sitemkârı arzular\nDilber ki ola âdeti cevr ü cefa bilmez",
+    "sadelestirme": "Gönlüm yine o sitemkar güzeli arzular. Gönül alıcı güzelin adeti eziyet ve cefadır, bilmez misin?",
+    "yorum": "Sevdiğini özlemenin en güçlü insan için bile doğal olduğunu hatırlatır.",
+    "sairBilgisi": "15. yüzyıl, Avni mahlasıyla lirik gazeller yazan, İstanbul'un fatihi Osmanlı padişahıdır.",
+    "kaynak": "Fatih'in Divanı (Avni Divanı, M. A. Yekta Saraç)",
+    "id": 95
+  },
+  {
+    "sair": "I. Ahmed (Bahti)",
+    "kategori": "Yalnızlık",
+    "orijinalMetin": "Bahtiyâ tenhâ gecelerde nâle vü zâr eyleyen\nBilmezem kimdir aceb derd-i nihânım var benim",
+    "sadelestirme": "Ey Bahti, tenha gecelerde inleyip ağlayan kimdir bilmem. Benim gizli bir derdim var.",
+    "yorum": "Sosyal statü ne olursa olsun, insanın kendiyle baş başa kaldığında hissettiği duyguların ortak olduğunu gösterir.",
+    "sairBilgisi": "17. yüzyıl, Bahti mahlasıyla tasavvufi şiirler yazan, genç yaşta vefat eden Osmanlı padişahıdır.",
+    "kaynak": "Bahti Divanı (M. İsen)",
+    "id": 96
+  },
+  {
+    "sair": "Yavuz Sultan Selim (Selimi)",
+    "kategori": "Aşk",
+    "orijinalMetin": "Selimi'yem bu derd ile olmuşam zâr\nNe çâre eylesem takdir-i perverdigâr imiş",
+    "sadelestirme": "Ben Selimi, bu dert ile inleyip ağlamışım. Ne çare, ne yapsam Allah'ın takdiri imiş.",
+    "yorum": "Bazen en büyük gücün, kontrolü bırakıp teslim olmak olduğunu öğretir.",
+    "sairBilgisi": "16. yüzyıl, Selimi mahlasıyla Farsça ağırlıklı şiirler yazan Osmanlı padişahıdır.",
+    "kaynak": "Selimi Divanı (A. Uğur)",
+    "id": 97
+  },
+  {
+    "sair": "II. Osman (Farisi)",
+    "kategori": "Hüzün",
+    "orijinalMetin": "Farisi derd-i aşka müptelâdır\nNe bilsin aşkı ol kim mübtelâdır",
+    "sadelestirme": "Farisi aşk derdine tutulmuştur. Aşkı, bu derde tutulmayan ne bilsin?",
+    "yorum": "Duyguların yaşla veya konumla ilgisi olmadığını, her yaşta aşk acısının gerçek olduğunu hatırlatır.",
+    "sairBilgisi": "17. yüzyıl, Farisi mahlasıyla şiirler yazan, genç yaşta şehit edilen Osmanlı padişahıdır.",
+    "kaynak": "Farisi Divanı (M. Çavuşoğlu)",
+    "id": 98
+  },
+  {
+    "sair": "III. Selim (İlhami)",
+    "kategori": "Umut",
+    "orijinalMetin": "Ümîd-i vasl ile cânâ seni sevdim seni sevdim\nGönül sabr eylemez amma ne çâre eyledim sevdim",
+    "sadelestirme": "Ey sevgili, sana kavuşma ümidiyle seni sevdim. Gönül sabretmez ama ne çare, sevdim işte.",
+    "yorum": "Sevmenin kendisinin bir umut eylemi olduğunu, bekleyişin bile anlamlı olduğunu gösterir.",
+    "sairBilgisi": "18.-19. yüzyıl, İlhami mahlasıyla lirik şiirler yazan, aynı zamanda bestekar Osmanlı padişahıdır.",
+    "kaynak": "İlhami Divanı (M. Arslan)",
+    "id": 99
+  },
+  {
+    "sair": "Fatih Sultan Mehmed (Avni)",
+    "kategori": "Gurur",
+    "orijinalMetin": "Dilber ki ola zülfü kemend olmaz ise şâh\nBen bendesiyem diyü niçin lâf urur amma",
+    "sadelestirme": "Güzelin zülfü kemend olmazsa, şah olmaz. Ben onun kuluyum diye niçin laf atar, bilmem.",
+    "yorum": "Gerçek gururun egoda değil, sevdiğine sadakatte olduğunu öğretir.",
+    "sairBilgisi": "15. yüzyıl, İstanbul'u fetheden, doğu ve batı kültürlerine hakim, entelektüel Osmanlı padişahıdır.",
+    "kaynak": "Fatih'in Divanı (Avni Divanı, M. A. Yekta Saraç)",
+    "id": 100
+  },
+  {
+    "sair": "Kanuni Sultan Süleyman (Muhibbi)",
+    "kategori": "Aşk",
+    "orijinalMetin": "Âşık-ı bîçâreyim amma ne çâre sevmişem\nBir perî-ruhsâre dil verdim cihânı bilmişem",
+    "sadelestirme": "Çaresiz bir aşığım ama ne çare, sevmişim. Bir peri yanaklı güzele gönül verdim, cihanı da bilmişim.",
+    "yorum": "Aşkın, padişahı da halktan biri yaptığını gösterir.",
+    "sairBilgisi": "16. yüzyıl, Muhibbi mahlasıyla aşk ve kahramanlık temalı şiirler yazan Osmanlı padişahıdır.",
+    "kaynak": "Muhibbi Divanı (C. Yılmaz)",
+    "id": 101
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Vuslatın hükmü neyse cana canan eyler anı\nKim görür kendi özün gibi cihanda cananı",
+    "sadelestirme": "Kavuşmanın ne kadar değerli olduğu, canın canana kavuşmasıyla anlaşılır. Kişi, sevgiliyi kendi canı gibi görünce dünyada ondan başkasını görmez.",
+    "yorum": "Uzak mesafe ilişkisi yaşayan gençler için yoğun bir duyguyu ifade eder; sosyal medyanın yapay bağlantılarına karşı gerçek birleşmenin kıymetini hatırlatır.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Azerbaycan sahasının en büyük Türk şairi.",
+    "kaynak": "Fuzuli Divanı, Hazırlayan: Kenan Akyüz, Akçağ Yayınları",
+    "id": 102
+  },
+  {
+    "sair": "Nedim",
+    "kategori": "Neşe",
+    "orijinalMetin": "Görelim meclis-i dilberde ne âdem var imiş\nTâlii var her kime kim orada bir yâr var imiş",
+    "sadelestirme": "Sevgilinin meclisinde ne güzel insanlar varmış. Orada bir sevgilisi olan herkesin talihi varmış.",
+    "yorum": "Lale Devri'nin eğlence anlayışını yansıtır; gençlere hayatın tadını çıkarmanın ve sosyalleşmenin önemini hatırlatır.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Lale Devri'nin en önemli temsilcisi.",
+    "kaynak": "Nedim Divanı, Hazırlayan: Muhsin Macit, Akçağ Yayınları",
+    "id": 103
+  },
+  {
+    "sair": "Yunus Emre",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Yaratılanı severiz Yaradan'dan ötürü\nÂşık olan göz görür mahlukun hikmetin",
+    "sadelestirme": "Yaratılan her şeyi Yaradan'ı sevdiğimiz için severiz. Gerçek aşık, varlığın sırrını ve hikmetini fark eder.",
+    "yorum": "Tüketim kültürüne karşı her şeyin bir amaçla yaratıldığını düşündürür; ekoloji bilincine sahip gençler için doğaya saygının manevi temelini oluşturur.",
+    "sairBilgisi": "13-14. yüzyıl Anadolu mutasavvıf şairi, Türkçenin en büyük şairlerindendir.",
+    "kaynak": "Yunus Emre Divanı, Hazırlayan: Abdülbaki Gölpınarlı",
+    "id": 104
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Ayrıldım yuvamdan düştüm gurbete\nAğlarım çağlarım sel olmuş gider",
+    "sadelestirme": "Yuvamdan ayrıldım, gurbete düştüm. Ağladıkça gözyaşlarım sel olup akıyor.",
+    "yorum": "Eğitim veya iş nedeniyle memleketinden ayrılan milyonlarca gencin yaşadığı duyguyu ifade eder.",
+    "sairBilgisi": "17. yüzyıl Âşık tarzı şair, Türk halk şiirinin en büyük temsilcisi.",
+    "kaynak": "Karacaoğlan Bütün Şiirleri, Hazırlayan: Ahmet Özdemir, Beyan Yayınları",
+    "id": 105
+  },
+  {
+    "sair": "Baki",
+    "kategori": "Hasret",
+    "orijinalMetin": "Ey gül sana olmaz bahar eyyamı hasret\nBir gün göremem didene mümkün mü feraset",
+    "sadelestirme": "Ey gül, sana ilkbahar günleri hasret kalmaz. Seni bir gün göremez miyim, buna aklım ermez.",
+    "yorum": "Gençlik yıllarının en güzel anlarına duyulan özlemi anlatır; zamanın kıymetini vurgular.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, 'Sultanü'ş-şuara' unvanıyla anılır.",
+    "kaynak": "Baki Divanı, Hazırlayan: Sabahattin Küçük, TDK Yayınları",
+    "id": 106
+  },
+  {
+    "sair": "Şeyh Galip",
+    "kategori": "Sitem",
+    "orijinalMetin": "Neyledin zahm-ı niyazı bana çok etme eza\nEl hak sensin o cânâne kıyân eyleme",
+    "sadelestirme": "Yalvarış yaralarını bana niçin veriyorsun, bana çok eziyet etme. Gerçekten sensin o sevgili, bana kıyma.",
+    "yorum": "Sevgiliye yönelik sitem, günümüz ilişkilerinde de sık yaşanan bir duygudur; duygusal inceliği ve zarif yakınmayı gösterir.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Mevlevi şair, Hüsn ü Aşk mesnevisinin yazarı.",
+    "kaynak": "Şeyh Galip Divanı, Hazırlayan: Muhsin Kalkışım, MEB Yayınları",
+    "id": 107
+  },
+  {
+    "sair": "Niyazi Mısri",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Gör ne aceb iştir ki ne ben var ne sen\nNe ben ü sen ne bu cihan ne bu mekân",
+    "sadelestirme": "Ne garip bir iştir ki ne ben varım ne sen. Ne ben ne sen ne bu dünya ne bu mekan.",
+    "yorum": "Varlık ve yokluk arasındaki sınırı sorgular; sosyal medya kimliklerinin geçiciliğini düşündürür.",
+    "sairBilgisi": "17. yüzyıl mutasavvıf şairi, Halveti şeyhi.",
+    "kaynak": "Niyazi Mısri Divanı, Hazırlayan: Mehmet Fatih Köksal",
+    "id": 108
+  },
+  {
+    "sair": "Nef'i",
+    "kategori": "Neşe",
+    "orijinalMetin": "Câm-ı Cem'le içtik biz ayne'l-yakîn\nBin kere bin olsun iki cihân",
+    "sadelestirme": "Cem'in kadehiyle biz yakinen içtik. İki cihan bin kere bin olsun.",
+    "yorum": "Eğlence ve coşkuyu mistik bir zeminde sunar; gençlere hayatın keyfini sürerken derinlikli olmanın da mümkün olduğunu gösterir.",
+    "sairBilgisi": "17. yüzyıl Divan şairi, kaside ve hicivleriyle ünlüdür.",
+    "kaynak": "Nef'i Divanı, Hazırlayan: Haluk İpekten, Akçağ Yayınları",
+    "id": 109
+  },
+  {
+    "sair": "Ahmed Yesevi",
+    "kategori": "Hasret",
+    "orijinalMetin": "Yolun hasretin yanıp yanarım\nKuruyan bağım yaşarar mı",
+    "sadelestirme": "Yolunun özlemiyle yanıp duruyorum. Kuruyan bağım canlanır mı?",
+    "yorum": "Aidiyet duygusu zayıflamış günümüz gencinin ruh haline uygundur; anlam arayışının evrenselliğini gösterir.",
+    "sairBilgisi": "11-12. yüzyıl Türk mutasavvıf şairi, Divan-ı Hikmet'in yazarı.",
+    "kaynak": "Divan-ı Hikmet'ten Seçmeler, Hazırlayan: Kemal Eraslan",
+    "id": 110
+  },
+  {
+    "sair": "Nesimi",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Vaslının şevkiyle yanar cümlenin canı gönül\nGel seninle bir dem ola bu cihan başka gönül",
+    "sadelestirme": "Kavuşmanın heyecanıyla herkesin canı gönlü yanar. Gel bir an seninle olsun, bu dünya başka bir gönül olsun.",
+    "yorum": "'Birlikte geçirilen anların kıymeti' fikrini güçlendirir; sosyal medyada zaman harcamak yerine gerçek anlara odaklanmayı öğütler.",
+    "sairBilgisi": "14. yüzyıl Azeri sahası mutasavvıf şairi.",
+    "kaynak": "Nesimi Divanı, Hazırlayan: Hüseyin Ayan, TDK Yayınları",
+    "id": 111
+  },
+  {
+    "sair": "Dadaloğlu",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Yaz gelir kış gelir yine giderim\nGurbet ilde ömrüm geçer giderim",
+    "sadelestirme": "Yaz gelir kış gelir yine giderim. Gurbet memlekette ömrüm geçer giderim.",
+    "yorum": "Mevsimlik işçileri ve göç edenleri anlatan güçlü bir tema, bitmeyen gurbet hikayesini işler.",
+    "sairBilgisi": "19. yüzyıl Türkmen boyu şairi, oba hayatını anlatan son büyük âşık.",
+    "kaynak": "Dadaloğlu, Hazırlayan: M. Fuat Köprülü",
+    "id": 112
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Hasret",
+    "orijinalMetin": "Hasretinden geçmişim aklıma hayalin yerine\nGözümden akar kanlı yaş deryâlar yerine",
+    "sadelestirme": "Hasretinden dolayı aklıma hayalin geliyor. Gözlerimden kanlı yaşlar deniz gibi akıyor.",
+    "yorum": "Dijital çağda bile kaybedilen veya ulaşılamayan değerlere duyulan özlemle eşleşir.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Azerbaycan edebiyatının en büyük ismi.",
+    "kaynak": "Fuzuli Divanı, Hazırlayan: Kenan Akyüz, Akçağ Yayınları",
+    "id": 113
+  },
+  {
+    "sair": "Bağdatlı Ruhi",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Aynaya her dem bakarım kendimi sorgularım\nBu ben miyim yoksa bir hayal miyim",
+    "sadelestirme": "Her zaman aynaya bakar ve kendimi sorgularım. Bu gerçekten ben miyim, yoksa bir hayal miyim?",
+    "yorum": "Kimlik ve ego üzerine sorgulama, günümüz gençliğinin sık yaşadığı varoluşsal sorulardan biridir.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Bağdat'lı meşhur şair.",
+    "kaynak": "Bağdatlı Ruhi Divanı",
+    "id": 114
+  },
+  {
+    "sair": "Muhibbi (Kanuni Sultan Süleyman)",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Vuslatını ister gönül her an ümit var\nBir nefes ayrı düşmeyelim can ile canan",
+    "sadelestirme": "Gönül her an kavuşmayı ister, ümit hep vardır. Sevgiliyle bir nefes ayrı kalmayalım.",
+    "yorum": "Güç ve makam sahibi insanların da temel ihtiyacının sevgi ve kavuşma olduğunu gösterir.",
+    "sairBilgisi": "16. yüzyıl Osmanlı padişahı ve şairi.",
+    "kaynak": "Muhibbi Divanı, Hazırlayan: Coşkun Ak",
+    "id": 115
+  },
+  {
+    "sair": "Necati Bey",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Diyar-ı garipde elem çok olur\nYüz sürsem yere hasretim olur",
+    "sadelestirme": "Garip diyarında elem çok olur. Yere yüz sürsem yine hasretim olur.",
+    "yorum": "Üniversite eğitimi için başka şehre giden gençlerin deneyimlerine uyar; aidiyet duygusunun kıymetini vurgular.",
+    "sairBilgisi": "15. yüzyıl Divan şairi, devrin önde gelen isimlerinden.",
+    "kaynak": "Necati Bey Divanı, Hazırlayan: Ali Nihad Tarlan",
+    "id": 116
+  },
+  {
+    "sair": "Taşlıcalı Yahya",
+    "kategori": "Hasret",
+    "orijinalMetin": "Geçen günlere hasretim ağlarım\nDöner mi geriye ah nice çağlar",
+    "sadelestirme": "Geçmiş günlere hasretle ağlarım. Döner mi geri o yıllar, ah nice çağlar.",
+    "yorum": "Nostalji, günümüz gençliğinin en sık duyduğu duygulardan biridir; zamanın akışını sorgulatır.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Şehzade Mustafa mersiyesi ile ünlü.",
+    "kaynak": "Taşlıcalı Yahya Divanı",
+    "id": 117
+  },
+  {
+    "sair": "Yunus Emre",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "İlim ilim bilmektir\nİlim kendin bilmektir",
+    "sadelestirme": "İlim, sadece öğrenmek değil, kişinin kendini tanımasıdır.",
+    "yorum": "Eğitim sisteminde ezberciliğe karşı öz-bilinci öne çıkarır; kişisel gelişimle ilgilenen gençlere doğrudan hitap eder.",
+    "sairBilgisi": "13-14. yüzyıl mutasavvıf şairi, Anadolu Türkçesinin kurucu ismi.",
+    "kaynak": "Yunus Emre Divanı, Hazırlayan: Abdülbaki Gölpınarlı",
+    "id": 118
+  },
+  {
+    "sair": "Niyazi Mısri",
+    "kategori": "Hasret",
+    "orijinalMetin": "Ah bu can geçer gider sevgiliye hasretle\nBir gün kavuşur mu zannederim amma",
+    "sadelestirme": "Ah bu can sevgiliye hasretle geçer gider. Bir gün kavuşur mu, sanırım ama bilmiyorum.",
+    "yorum": "Kavuşma ümidinin belirsizliği, uzak mesafe ilişkisi yaşayan gençlerin en çok hissettiği duygudur.",
+    "sairBilgisi": "17. yüzyıl mutasavvıf şairi, vahdet-i vücut anlayışının şairi.",
+    "kaynak": "Niyazi Mısri Divanı",
+    "id": 119
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Gurbet elde bir başına ötersin\nBülbül gibi dağlar seni dinlesin",
+    "sadelestirme": "Gurbet memlekette tek başına ötersin. Bülbül gibi dağlar seni dinlesin.",
+    "yorum": "Yurt dışında okuyan veya çalışan gençlerin ruh halini yansıtır.",
+    "sairBilgisi": "17. yüzyıl Âşık tarzı şair, Türk halk şiirinin zirve ismi.",
+    "kaynak": "Karacaoğlan Bütün Şiirleri",
+    "id": 120
+  },
+  {
+    "sair": "Baki",
+    "kategori": "Neşe",
+    "orijinalMetin": "Mey ile dem tuttuk eyyam-ı bahar\nBir dem gülelim n'olur gamı aradan",
+    "sadelestirme": "Baharla birlikte mey ile neşelendik. Bir an gülelim, gamı aradan çıkaralım.",
+    "yorum": "Stresli günlük hayatta gençlerin ihtiyaç duyduğu eğlence ve sosyalleşmeyi çağrıştırır.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Kanuni döneminin en büyük şairi.",
+    "kaynak": "Baki Divanı, Hazırlayan: Sabahattin Küçük",
+    "id": 121
+  },
+  {
+    "sair": "Nedim",
+    "kategori": "Neşe",
+    "orijinalMetin": "Haddeden geçmiş nezaket yâl ü bâl olmuş sana\nMey süzülmüş şişeden ruhgâr-ı âl olmuş sana",
+    "sadelestirme": "Nezaket öylesine ince işlenmiş ki boyun posun olmuş. Şarap şişeden süzülüp gelmiş, yanağının kırmızılığı olmuş.",
+    "yorum": "Zarafet ve eğlencenin iç içe geçtiği bu ünlü Nedim mısraları, estetik kaygının ve hayattan keyif almanın zirvesini gösterir.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Lale Devri'nin en parlak ismi.",
+    "kaynak": "Nedim Divanı, Hazırlayan: Muhsin Macit",
+    "id": 122
+  },
+  {
+    "sair": "Nef'i",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Bir nefes dîdâr içün bin cân fedâ itsem n'ola\nNice demlerdür esir-i iştiyâkıdur gönül",
+    "sadelestirme": "Bir nefes o güzel yüzü görmek için bin can kurban etsem ne olur. Gönül nice zamandır bu arzuyla esir durumda.",
+    "yorum": "Kavuşma uğruna her şeyi göze alma; dijital çağda yüzeysel ilişkilere karşı derin bağlılığı hatırlatır.",
+    "sairBilgisi": "17. yüzyıl Divan şairi, kaside ve hicivleriyle ünlüdür.",
+    "kaynak": "Nef'i Divanı, Hazırlayan: Haluk İpekten",
+    "id": 123
+  },
+  {
+    "sair": "Hayali",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Cihân-ârâ cihân içredür ârâyı bilmezler\nO mâhiler ki deryâ içredür deryâyı bilmezler",
+    "sadelestirme": "Dünyayı süsleyen Allah dünyanın içindedir, ama onu bilmezler. Tıpkı denizdeki balıkların denizi bilmemesi gibi.",
+    "yorum": "Varlığın ve yaratıcının içkinliği üzerine derin bir felsefi sorgulama; tüketim odaklı hayatın ötesine geçme çağrısıdır.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Kanuni dönemi şairlerinden. Bu beyit, Türk edebiyatının en çok alıntılanan açılış dizelerinden biridir.",
+    "kaynak": "Hayali Divanı",
+    "id": 124
+  },
+  {
+    "sair": "Ziya Paşa",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Âdeme âdem gerektir âdem etsin âdemi\nÂdem âdem olmayınca âdem netsin âdemi",
+    "sadelestirme": "İnsana insan gerekir ki insanı insan etsin. İnsan insan olmayınca, insan insanı ne yapsın?",
+    "yorum": "Eğitim ve insan ilişkilerinin özüne dair; toplumsal çözülmeye ve yabancılaşmaya karşı net bir uyarıdır.",
+    "sairBilgisi": "19. yüzyıl Tanzimat dönemi şairi ve devlet adamı.",
+    "kaynak": "Ziya Paşa'dan meşhur bir söz, Terkib-i Bend geleneğinde",
+    "id": 125
+  },
+  {
+    "sair": "Pir Sultan Abdal",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Şu karşı yaylada göç katar katar\nBir güzel sevdası gözümde tüter\nBu ayrılık bize ölümden beter\nGeçti dost kervanı eyleme beni",
+    "sadelestirme": "Karşı yaylada göç kafilesi var. Bir güzelin sevdası gözümde tütüyor. Bu ayrılık bize ölümden daha kötü. Dost kervanı geçti, beni bekletme.",
+    "yorum": "Göç teması ve ardından gelen ayrılık acısı, günümüzdeki zorunlu göçler ve sıla hasretiyle doğrudan örtüşür.",
+    "sairBilgisi": "16. yüzyıl Alevi-Bektaşi halk şairi.",
+    "kaynak": "Pir Sultan Abdal Şiirleri",
+    "id": 126
+  },
+  {
+    "sair": "Ahmed Paşa",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Canıma bir merhaba sundu ezelden çeşm-i yâr\nÖyle mest oldum ki gayrın merhabasın bilmedim",
+    "sadelestirme": "Sevgilinin gözü ezel gününde canıma bir merhaba sundu. O kadar mest oldum ki başkasının merhabasını tanımadım.",
+    "yorum": "İlk görüşte aşk ve ezelî bağlanma; dijital çağda bile gerçek bağlantının derinliğini arayan gençlerin duygusuna hitap eder.",
+    "sairBilgisi": "15. yüzyıl Divan şairi, Fatih Sultan Mehmet dönemi şairi.",
+    "kaynak": "Ahmed Paşa Divanı",
+    "id": 127
+  },
+  {
+    "sair": "Neşati",
+    "kategori": "Hasret",
+    "orijinalMetin": "Gitdün ammâ kodun hasret ile cânı bile\nİstemem sensiz olan sohbet-i yârânı bile",
+    "sadelestirme": "Sen gittin ama canımı da hasretle birlikte bıraktın. Sensiz dostlar sohbetini bile istemiyorum.",
+    "yorum": "Ayrılığın ardından gelen toplam duyarsızlaşma ve sosyal çekilme, depresyon ve yas süreçlerinde sıkça rastlanan bir durumdur.",
+    "sairBilgisi": "17. yüzyıl Divan şairi, Mevlevi şeyhi. Bu beyit Türk edebiyatının en tanınmış ayrılık mısralarından biridir.",
+    "kaynak": "Neşati Divanı",
+    "id": 128
+  },
+  {
+    "sair": "Muhibbi (Kanuni Sultan Süleyman)",
+    "kategori": "Sitem",
+    "orijinalMetin": "Aşk mıdır ki can-ü dil mülkünü yağma eyleyen\nAşk mıdır sinem içre gelip de cân eyleyen",
+    "sadelestirme": "Gönül varlığını yağma eden aşk mıdır? Göğsümün içine gelip bana tekrar can veren aşk mıdır?",
+    "yorum": "Aşkın hem yıkıcı hem diriltici doğasına dair sitem; kırgınlıkla şükran arasındaki ince çizgiyi gösterir.",
+    "sairBilgisi": "16. yüzyıl Osmanlı padişahı ve şairi.",
+    "kaynak": "Muhibbi Divanı, Hazırlayan: Coşkun Ak",
+    "id": 129
+  },
+  {
+    "sair": "Nabi",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Gel varlığın sırrını sor kendine\nNice bir gaflet ile yaşayıp gidesin",
+    "sadelestirme": "Gel, varlığının sırrını kendine sor. Ne zamana kadar gaflet içinde yaşayıp gideceksin?",
+    "yorum": "Öz-farkındalık ve varoluşsal sorgulama, mindfulness ve kişisel gelişim çağındaki gençlerin en temel arayışlarından biridir.",
+    "sairBilgisi": "17. yüzyıl Divan şairi, hikemî üslubun en önemli temsilcisi.",
+    "kaynak": "Nabi Divanı, Hazırlayan: Ali Fuat Bilkan",
+    "id": 130
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Gam elinden benim zülfü siyahım\nPeykan değdi sinem yaralandı gel",
+    "sadelestirme": "Keder yüzünden saçlarım karardı. Ok değdi, sinem yaralandı, gel.",
+    "yorum": "Gurbette geçen zamanın getirdiği fiziksel ve ruhsal yıpranış, göçmen gençliğin yaşadığı kimlik bunalımına tercüman olur.",
+    "sairBilgisi": "17. yüzyıl Âşık tarzı şair, Türk halk şiirinin en büyük temsilcisi.",
+    "kaynak": "Karacaoğlan Şiirleri",
+    "id": 131
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Aşk",
+    "orijinalMetin": "Gönlüm açılır zülf-i perişanını görgeç\nNutkum tutulur gonce-i handanını görgeç",
+    "sadelestirme": "Gönlüm, senin dağınık saçlarını görünce ferahlar; gonca gibi gülümseyen dudağını görünce dilim tutulur.",
+    "yorum": "Hasret ve aşkın yan yana geldiği bu beyit, birine duyulan özlemin hem ferahlatıcı hem susturucu gücünü anlatır.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Azerbaycan sahasının en büyük şairi.",
+    "kaynak": "Fuzuli Divanı - Hasret Gazeli",
+    "id": 132
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Umduğum oldur ki rûz-ı haşr mahrûm olmayam\nÇeşm-i vaslun vire men teşne-i dîdâra su",
+    "sadelestirme": "Umudum odur ki mahşer günü mahrum kalmayayım. Vuslat çeşmen, senin güzel yüzüne susamış olan bana su versin.",
+    "yorum": "Kavuşma arzusunun en yoğun ve mistik hali; ölüm ötesine taşan bu hasret, ebedi kavuşma ümidini anlatır.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, ünlü Su Kasidesi'nin yazarı.",
+    "kaynak": "Fuzuli - Su Kasidesi (Türk edebiyatının en tanınmış kasidelerinden)",
+    "id": 133
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Ey Fuzûlî aşk men'in kılma nâsihden kabul\nAkl tedbîridür ol sanma ki bir bünyâdı var",
+    "sadelestirme": "Ey Fuzuli, aşka dair söylediklerimi nasihatçiden kabul etme. Onlar aklın tedbiri değil, bambaşka bir yapıdır.",
+    "yorum": "Aşkın akıl ve mantıkla açıklanamayacağını savunur; duyguların rasyonel açıklamaların ötesinde olduğunu hatırlatır.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Türk edebiyatının zirve ismi.",
+    "kaynak": "Fuzuli Divanı - Gazel",
+    "id": 134
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Sitem",
+    "orijinalMetin": "Perişan hâlin oldum sormadın hâl-i perişanım a\nGamından derde düştüm kılmadın tedbir-i dermanım a",
+    "sadelestirme": "Perişan halimle sana geldim, halimi sormadın. Gamından derde düştüm, çarem için bir tedbir düşünmedin.",
+    "yorum": "Sevgilinin ilgisizliğine karşı duyulan kırgınlık, günümüz ilişkilerinde sıkça yaşanan bir duygudur.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Azerbaycan edebiyatının en büyük ismi.",
+    "kaynak": "Fuzuli Divanı - Gazel",
+    "id": 135
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Aşk",
+    "orijinalMetin": "Hayret ey büt sûretün gördükde lâl eyler meni\nSûret-i hâlüm gören sûret hayâl eyler meni",
+    "sadelestirme": "Ey put gibi güzel sevgili, senin suretini görünce hayretten dilim tutuluyor. Halimi gören beni bir hayal sanıyor.",
+    "yorum": "Sevgilinin güzelliği karşısında susup kalmak; estetik algının insan üzerindeki etkisini düşündürür.",
+    "sairBilgisi": "16. yüzyıl Divan şairi. Bu beyte Nedim sonradan nazire (benzer şiir) yazmıştır.",
+    "kaynak": "Fuzuli Divanı - Gazel",
+    "id": 136
+  },
+  {
+    "sair": "Ahmet Paşa",
+    "kategori": "Hasret",
+    "orijinalMetin": "Sernâme-i muhabbeti cânâne yazmışam\nHasret risâlesin varâk-ı câne yazmışam",
+    "sadelestirme": "Sevgiliye bir aşk mektubu yazdım. Hasret risalesini canın sayfalarına yazdım.",
+    "yorum": "Aşkı ve hasreti yazıya dökme çabası, gençlerin duygularını ifade etmek için kullandığı sosyal medya paylaşımlarına ışık tutar.",
+    "sairBilgisi": "15. yüzyıl Divan şairi, Fatih Sultan Mehmet dönemi şairi.",
+    "kaynak": "Ahmet Paşa Divanı",
+    "id": 137
+  },
+  {
+    "id": 138,
+    "sair": "Nedim",
+    "kategori": "Neşe",
+    "orijinalMetin": "Sevdiğim cânım yolunda hâk ile yeksân olduğum\nÎyddir çık nâz ile seyrâna kurbân olduğum",
+    "sadelestirme": "Sevdiğim, canım yolunda toprakla bir olduğum! Bayramdır, nazlı nazlı gezmeye çık, kurban olduğum!",
+    "yorum": "Nedim'in ünlü bayram şarkısının matla beyti. Lale Devri'nin coşkulu, dünyevi zevke açık ruhunu yansıtan neşeli bir davet.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Lale Devri'nin en önemli temsilcisi.",
+    "kaynak": "Nedim Divanı — çapraz doğrulama: liseedebiyat.com, edebiyatfatihi.net"
+  },
+  {
+    "id": 139,
+    "sair": "Nedim",
+    "kategori": "Neşe",
+    "orijinalMetin": "İzn alıb Cum'a namazına deyû mâderden\nBir gün uğrulayalım çerh-i sitem-perverden\nDolaşıb iskeleye doğru nihân yollardan\nGidelim serv-i revânım yürü Sa'dâbâd'a",
+    "sadelestirme": "Cuma namazına gideceğiz diye anneden izin alıp, cefakâr felekten bir gün çalalım. Gizli yollardan iskeleye doğru dolaşıp, haydi selvi boylum, yürü Sadabad'a gidelim.",
+    "yorum": "Nedim'in en tanınmış şarkılarından. Lale Devri İstanbul'unun mesire kültürünü, gençlerin küçük bir kaçamakla bulduğu özgürlük neşesini anlatır.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Lale Devri'nin en önemli temsilcisi.",
+    "kaynak": "Nedim Divanı (Sadabad Şarkısı) — çapraz doğrulama: t24.com.tr/k24, simgesiir.wordpress.com"
+  },
+  {
+    "id": 140,
+    "sair": "Baki",
+    "kategori": "Neşe",
+    "orijinalMetin": "Sular çağlar tuyûr âvâzesinden kûhsâr inler\nBahâr eyyâmıdır şimden gerû sıyt u sadâ artar",
+    "sadelestirme": "Sular çağlar, kuşların ötüşünden dağlar inler; bahar çağıdır, bundan sonra ses sada artacaktır.",
+    "yorum": "Baki'nin bahar tasviri, doğanın uyanışını coşkulu bir ses ve hareketle resmeder — divan şiirinde neşenin doğayla özdeşleştiği klasik bir örnek.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, 'Sultanü'ş-şuara' unvanıyla anılır.",
+    "kaynak": "Baki Divanı — çapraz doğrulama: fikriyat.com, liseedebiyat.com, scribd.com"
+  },
+  {
+    "id": 141,
+    "sair": "Baki",
+    "kategori": "Neşe",
+    "orijinalMetin": "Söyle şol kan olacağı bize sunsun Bâkî\nNev-bahâr irdi gedâlar içecek demlerdir",
+    "sadelestirme": "Söyle, o kırmızı şarabı bize sunsun Baki; yeni bahar geldi, yoksulların bile içip eğleneceği zamanlardır.",
+    "yorum": "Baki'nin bahar gazelinin makta beyti — bahar gelişiyle herkesin, en yoksulun bile bir neşe payı bulacağını söyler.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, 'Sultanü'ş-şuara' unvanıyla anılır.",
+    "kaynak": "Baki Divanı (Nev-bahâr Oldu Gelin gazeli) — kaynak: turkedebiyati.org"
+  },
+  {
+    "id": 142,
+    "sair": "Naili",
+    "kategori": "Neşe",
+    "orijinalMetin": "Bahârı n'eyleyelim k'ol gonce-fem gülüp açılmağı\nBin bahâra değmez mi",
+    "sadelestirme": "Baharı ne yapalım? O gonca ağızlının gülüp açılması bin bahara değmez mi?",
+    "yorum": "Naili'nin 'Değmez mi' redifli gazelinden. Doğanın baharı ile sevgilinin tebessümünü kıyaslayan, sevincin kaynağını insan ilişkisinde bulan zarif bir beyit. DİKKAT: Bazı popüler sitelerde yanlışlıkla Nef'i'ye atfedilir; iki bağımsız akademik kaynak beytin Naili'ye ait olduğunu doğrular.",
+    "sairBilgisi": "17. yüzyıl, Sebk-i Hindî akımının en önemli temsilcilerinden Divan şairi.",
+    "kaynak": "Naili Divanı ('Değmez mi' gazeli) — çapraz doğrulama: edebiyatim.net, dergipark.org.tr (akademik şerh)"
+  },
+  {
+    "id": 143,
+    "sair": "Nedim",
+    "kategori": "Sitem",
+    "orijinalMetin": "Tahammül mülkünü yıktın Hülâgû Han mısın kâfir\nAman dünyâyı yaktın âteş-i sûzân mısın kâfir",
+    "sadelestirme": "Tahammül ülkemi yıktın, Hülagu Han mısın kâfir? Aman, dünyayı yaktın; yakıcı bir ateş misin kâfir?",
+    "yorum": "Nedim'in en meşhur gazelinin matla beyti. Sevgilinin acımasızlığına doğrudan, sitemli bir hitapla seslenir — 'kâfir' redifi boyunca süren bir suçlama gazeli.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Lale Devri'nin en önemli temsilcisi.",
+    "kaynak": "Nedim Divanı — çapraz doğrulama: tr.wikisource.org, dergipark.org.tr (akademik makale), edebiyatsultani.com"
+  },
+  {
+    "id": 144,
+    "sair": "Nedim",
+    "kategori": "Sitem",
+    "orijinalMetin": "Sana kimisi cânım kimi cânânım deyü söyler\nNesin sen doğru söyle can mısın cânân mısın kâfir",
+    "sadelestirme": "Sana kimi 'canım' kimi 'sevgilim' der. Sen nesin, doğru söyle: can mısın, sevgili mi, kâfir?",
+    "yorum": "Aynı gazelden bir başka sitem beyti — sevgilinin ikircikli, tanımlanamaz tavrına yönelik bir hesap sorma.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Lale Devri'nin en önemli temsilcisi.",
+    "kaynak": "Nedim Divanı ('mısın kâfir' redifli gazel) — çapraz doğrulama: tr.wikisource.org, edebiyatvesanatakademisi.com"
+  },
+  {
+    "id": 145,
+    "sair": "Nedim",
+    "kategori": "Sitem",
+    "orijinalMetin": "Niçin sık sık bakarsın öyle mir'ât-ı mücellâya\nMeğer sen dahi kendi hüsnüne hayrân mısın kâfir",
+    "sadelestirme": "Niçin öyle sık sık parlak aynaya bakarsın? Yoksa sen de kendi güzelliğine mi hayransın, kâfir?",
+    "yorum": "Sevgilinin kendine düşkünlüğüne yapılan ince bir sitem — kibrini yüzüne vuran, iğneleyici bir soru beyti.",
+    "sairBilgisi": "18. yüzyıl Divan şairi, Lale Devri'nin en önemli temsilcisi.",
+    "kaynak": "Nedim Divanı ('mısın kâfir' redifli gazel) — çapraz doğrulama: tr.wikisource.org, liseedebiyat.com"
+  },
+  {
+    "id": 146,
+    "sair": "Fuzuli",
+    "kategori": "Sitem",
+    "orijinalMetin": "Dost bî-pervâ felek bî-rahm ü devran bî-sükûn\nDert çok hem-dert yok düşman kavî tâli' zebûn",
+    "sadelestirme": "Dost duyarsız, felek acımasız, zaman huzursuz. Dert çok, dert ortağı yok, düşman güçlü, talih zayıf.",
+    "yorum": "Doğrudan bir kişiye değil, kadere ve dünyaya yönelen geniş kapsamlı bir sitem — Fuzuli'nin acı çeken âşık portresinin özeti gibidir.",
+    "sairBilgisi": "16. yüzyıl Divan şairi, Azerbaycan edebiyatının en büyük ismi.",
+    "kaynak": "Fuzuli Divanı — çapraz doğrulama: edebiyatögretmeni.net (en güzel beyitler), eksiseyler.com"
+  }
+]
