@@ -1458,5 +1458,145 @@
     "yorum": "Doğrudan bir kişiye değil, kadere ve dünyaya yönelen geniş kapsamlı bir sitem — Fuzuli'nin acı çeken âşık portresinin özeti gibidir.",
     "sairBilgisi": "16. yüzyıl Divan şairi, Azerbaycan edebiyatının en büyük ismi.",
     "kaynak": "Fuzuli Divanı — çapraz doğrulama: edebiyatögretmeni.net (en güzel beyitler), eksiseyler.com"
+  },
+  {
+    "sair": "Yunus Emre",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Sen bu cihân mülkünü Kâf'dan Kâf'a dutdun tut\nYâ bu 'âlem mâlını oynayuban ütdün tut\nÇün denize gark oldun boğazına geldi su\nDeli gibi talpınma, ey biçare battın tut",
+    "sadelestirme": "Diyelim ki bu dünya mülkünün tamamına sahip oldun, bütün servetini kazandın. Ama sonunda denize gömülüp boğazına su geldiğinde, deli gibi çırpınma; zaten batmış say kendini.",
+    "yorum": "Dünya malının geçiciliğini ve ölümün kaçınılmazlığını çarpıcı bir 'deniz' benzetmesiyle anlatan, Yunus Emre'nin en bilinen tefekkür şiirlerinden biridir.",
+    "sairBilgisi": "13. yüzyıl sonu-14. yüzyıl başı tekke/halk şairi, Anadolu tasavvuf edebiyatının kurucu ismidir.",
+    "kaynak": "Yunus Emre Divanı — çapraz doğrulama: yunusemresiirleri.blogspot.com, eksisozluk.com, okuryazar.com.tr, fikriyat.com, Ötüken Yayınevi PDF neşri, tr.wikisource.org (8+ kaynak)",
+    "id": 147
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Hasret",
+    "orijinalMetin": "Rûz-i hicrândır sevin ey murg-i rûhum kim bu gün\nBu kafesten ben seni elbette âzâd eylerim",
+    "sadelestirme": "Bugün ayrılık günüdür, sevin ey ruh kuşum; çünkü bugün seni bu kafesten mutlaka özgür bırakacağım.",
+    "yorum": "Ölümü, ayrılığın verdiği acıdan bir kurtuluş, ruhun bedenden özgürleşmesi olarak müjdeleyen hüzünlü ama tesellili bir beyittir.",
+    "sairBilgisi": "16. yüzyıl divan şairi, klasik Türk şiirinin en büyük lirik şairlerinden biri.",
+    "kaynak": "Fuzuli Divanı ('Yâd Eylerim' gazeli) — çapraz doğrulama: luzumlufuzuliarsiv.appspot.com, divanimuhabbet.wordpress.com, siir.didaktika.tr, cgfuzuli.wordpress.com (6+ kaynak)",
+    "id": 148
+  },
+  {
+    "sair": "Taşlıcalı Yahya Bey",
+    "kategori": "Tefekkür",
+    "orijinalMetin": "Ganîdir aşk ile gönlüm ne mülküm ne menâlim var\nNe vasl-ı yâra handânam ne hicrândan melâlim var\nNe sağ olmak murâdımdır ne ölmekten kaçar cânım\nCihânda hasta-i aşk olalı bir hoşça hâlim var",
+    "sadelestirme": "Gönlüm aşk ile zengindir, malım mülküm yok. Sevgiliye kavuşmakla sevinmem, ayrılıktan da yakınmam. Ne yaşamak isterim ne ölümden kaçarım; aşk hastası olalı tuhaf bir huzur içindeyim.",
+    "yorum": "Vuslat ve hicranın ikisini de aşıp rıza makamına ulaşan bir âşığın hâlini anlatır — kavuşmaya sevinmez, ayrılıktan şikâyet etmez, çünkü meseleyi tümüyle teslim olmuştur.",
+    "sairBilgisi": "16. yüzyıl divan şairi (Dukakinzâde, ö. 1582), Kanuni dönemi şairlerinden.",
+    "kaynak": "Taşlıcalı Yahya Bey Divanı — çapraz doğrulama: antoloji.com, 1000kitap.com, hayatiinanc.com (şerhli), edebifikir.com (8+ kaynak)",
+    "id": 149
+  },
+  {
+    "sair": "Namık Kemal",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Vatan bir bî-vefâ nâzende-i tannâza dönmüş kim\nAyırmaz sâdıkân-ı aşkını âlâm-ı gurbetten",
+    "sadelestirme": "Vatan, vefasız, cilveli bir güzele dönmüş; ona sadık âşıklarını gurbetin acılarından esirgemiyor.",
+    "yorum": "'Hürriyet Kasidesi'nin bir beyti — vatan sevgisini bir aşk ilişkisi gibi kurar, vatana sadık kalanların yine de gurbette acı çekmesine dair bir sitem içerir.",
+    "sairBilgisi": "19. yüzyıl Tanzimat dönemi şair ve yazarı (1840-1888), 'Hürriyet Şairi' olarak bilinir.",
+    "kaynak": "Namık Kemal, Hürriyet Kasidesi — çapraz doğrulama: tr.wikisource.org, sabah.com.tr, milliyet.com.tr, EBA (MEB resmi eğitim platformu) (10+ kaynak)",
+    "id": 150
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Sitem",
+    "orijinalMetin": "Beni candan usandırdı cefâdan yâr usanmaz mı\nFelekler yandı âhımdan murâdım şem'i yanmaz mı",
+    "sadelestirme": "Sevgili beni canımdan bezdirdi, kendisi cefa etmekten usanmaz mı? Âhımdan gökler yandı, benim muradımın mumu hâlâ yanmayacak mı?",
+    "yorum": "Sevgiliye yönelik klasik bir sitem beytidir; âşığın çektiği eziyete rağmen sevgilinin ilgisizliğinden yakınır.",
+    "sairBilgisi": "16. yüzyıl divan şairi, klasik Türk şiirinin en büyük lirik şairlerindendir.",
+    "kaynak": "Fuzuli Divanı ('Beni Candan Usandırdı' gazeli, matla beyti) — çapraz doğrulama: tr.wikisource.org, liseedebiyat.com, ens.az, dergipark.org.tr (akademik makale)",
+    "id": 151
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Sitem",
+    "orijinalMetin": "Kamu bîmârına cânân devâ-yı derd eder ihsan\nNiçün kılmaz bana derman beni bîmar sanmaz mı",
+    "sadelestirme": "Sevgili bütün hastalarına derdinin dermanını bağışlar da bana niçin derman vermez? Beni âşık, hasta saymıyor mu?",
+    "yorum": "Sevgilinin herkese gösterdiği ilgiyi kendisinden esirgemesine dair bir sitemdir — aynı gazelin ikinci beyti.",
+    "sairBilgisi": "16. yüzyıl divan şairi, klasik Türk şiirinin en büyük lirik şairlerinden biri.",
+    "kaynak": "Fuzuli Divanı ('Beni Candan Usandırdı' gazeli) — çapraz doğrulama: liseedebiyat.com, dergipark.org.tr (akademik makale)",
+    "id": 152
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Hasret",
+    "orijinalMetin": "Şeb-i hicrân yanar cânım döker kan çeşm-i giryânım\nUyarır halkı efgânım kara bahtım uyanmaz mı",
+    "sadelestirme": "Ayrılık gecesi canım yanıyor, ağlayan gözlerim kan döküyor. Feryadım herkesi uyandırıyor da benim kara bahtım niçin uyanmıyor?",
+    "yorum": "Ayrılık gecesinin acısını ve talihsizlikten kurtulamayışını dile getiren güçlü bir hasret beytidir — aynı gazelin dördüncü beyti.",
+    "sairBilgisi": "16. yüzyıl divan şairi, klasik Türk şiirinin en büyük lirik şairlerinden biri.",
+    "kaynak": "Fuzuli Divanı ('Beni Candan Usandırdı' gazeli) — çapraz doğrulama: liseedebiyat.com, dergipark.org.tr (akademik makale)",
+    "id": 153
+  },
+  {
+    "sair": "Fuzuli",
+    "kategori": "Sitem",
+    "orijinalMetin": "Değildim ben sana mâil sen ettin aklımı zâil\nBana ta'n eyleyen gâfil seni görgeç utanmaz mı",
+    "sadelestirme": "Ben sana gönül vermemiştim, aklımı başımdan alan sensin. Beni bu yüzden kınayan cahil kişi, seni görünce utanmaz mı?",
+    "yorum": "Âşığın, sevgiliye duyduğu tutkuyu haklı çıkarmaya çalışırken çevresinden gördüğü kınamaya sitem etmesidir — aynı gazelin altıncı beyti.",
+    "sairBilgisi": "16. yüzyıl divan şairi, klasik Türk şiirinin en büyük lirik şairlerinden biri.",
+    "kaynak": "Fuzuli Divanı ('Beni Candan Usandırdı' gazeli) — çapraz doğrulama: liseedebiyat.com, dergipark.org.tr (akademik makale)",
+    "id": 154
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Gurbet elde efkârım var, zârım var\nSılada bekleyen nazlı yârim var\nBizi ayırana intizârım var",
+    "sadelestirme": "Yabancı diyarda kederim, ahım var; memlekette beni bekleyen nazlı sevgilim var. Bizi ayıranı yakından izlerim, ondan hesap sorarım.",
+    "yorum": "Gurbetteki adamın hem acısını hem sılaya bağlılığını, ayrılığa sebep olana duyduğu kırgınlığı anlatır.",
+    "sairBilgisi": "17. yüzyıl Anadolu halk şairi, âşık tarzı Türk şiirinin en tanınmış temsilcisidir.",
+    "kaynak": "Karacaoğlan Divanı — kaynak: siir.gen.tr 'Karacaoğlan - Eserler' (uzun bir koşmanın parçası)",
+    "id": 155
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Ezeli de Karacaoğlan ezeli\nDöküldü bağların gülü gazeli\nGurbet elde ben nideyim güzeli",
+    "sadelestirme": "Karacaoğlan hep böyleydi; bağların gülü, gazeli döküldü. Gurbet elde güzeli ne yapayım ki?",
+    "yorum": "Gurbette, sevdiği güzelin yanında olmayışının hiçbir anlam taşımadığını, doğanın güzelliğinin bile teselli etmediğini anlatır.",
+    "sairBilgisi": "17. yüzyıl Anadolu halk şairi, âşık tarzı Türk şiirinin en tanınmış temsilcisidir.",
+    "kaynak": "Karacaoğlan Divanı — kaynak: siir.gen.tr 'Karacaoğlan - Eserler' (aynı koşmanın devamı)",
+    "id": 156
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Ben burda kalmışım, dost gurbet elde\nBeni ilden ile atar ayrılık\nBen terk eylesem de diyarı gurbet\nÂşıklar, sadıklar kavuşur elbet",
+    "sadelestirme": "Ben burada, gurbet elde kalakaldım; ayrılık beni bir diyardan öbürüne savuruyor. Gurbeti terk etsem de, gerçek âşıklar er ya da geç kavuşur.",
+    "yorum": "Gurbetin sürekli yer değiştirtici acısına rağmen, sadık sevenlerin sonunda kavuşacağına dair umut taşır.",
+    "sairBilgisi": "17. yüzyıl Anadolu halk şairi, âşık tarzı Türk şiirinin en tanınmış temsilcisidir.",
+    "kaynak": "Karacaoğlan, 'Seyyah Oldum Gezdim Gurbet İlleri' — kaynak: karacaoglansiirleri.blogspot.com",
+    "id": 157
+  },
+  {
+    "sair": "Nedim",
+    "kategori": "Vuslat",
+    "orijinalMetin": "Ey şûh-ı kerem-pîşe dil-i zâr senindir\nYok minnetin asla\nSen kim gelesin meclise bir yer mi bulunmaz\nBaş üzre yerin var",
+    "sadelestirme": "Ey cömert güzel, bu inleyen gönül senindir, sana hiç minnetim yok. Sen meclise gelesin de yer mi bulunmaz? Baş üstünde yerin var.",
+    "yorum": "Sevgilinin gelişini büyük bir istekle karşılayan, kavuşma anının sevincini ve saygısını yansıtan bir müstezaddır.",
+    "sairBilgisi": "18. yüzyıl (Lâle Devri) divan şairi, şuh ve şen üslubuyla tanınır.",
+    "kaynak": "Nedim Divanı (müstezad) — kaynak: mehmetiliter.wordpress.com",
+    "id": 158
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Gel gönül gurbete gitme\nYa gelinir ya gelinmez\nHer güzele meyil verme\nYa sevilir ya sevilmez\nŞam-ı şeriftir zatımız\nYürüktür bizim atımız\nGurbet elde kıymetimiz\nYa bilinir ya bilinmez",
+    "sadelestirme": "Gönlüm, gurbete gitme; oradan dönülür ya da dönülmez. Her güzele gönül verme, sevilir ya da sevilmez. Bizim soyumuz şereflidir, atımız hızlıdır; gurbet elde değerimiz bilinir ya da bilinmez.",
+    "yorum": "Gurbetin getirdiği belirsizliği ve kişinin oradaki değerinin tanınmayacağı korkusunu dile getirir.",
+    "sairBilgisi": "17. yüzyıl Anadolu halk şairi, âşık tarzı Türk şiirinin en tanınmış temsilcisidir.",
+    "kaynak": "Karacaoğlan, 'Gel Gönül Gurbete Gitme' — çapraz doğrulama: tr.wikisource.org, Cahit Öztelli 'Karaca Oğlan - Bütün Şiirleri' (s.339), TRT repertuvarı (537 No), siirhane.net (7+ kaynak). NOT: İlk gönderilen versiyon satırları yanlış birleştirmişti (2. dörtlüğün ortası eksikti), gerçek tam metinle düzeltilmiştir.",
+    "id": 159
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Hasret",
+    "orijinalMetin": "Şu dünyada üç nesneden korkarım\nBir ayrılık, bir yoksulluk, bir ölüm\nHiçbirinden asla gönül şen değil\nBir ayrılık, bir yoksulluk, bir ölüm",
+    "sadelestirme": "Bu dünyada üç şeyden korkarım: ayrılık, yoksulluk ve ölüm. Hiçbirinden gönlüm asla hoşnut olmaz.",
+    "yorum": "Ayrılık, yoksulluk ve ölümü aynı acının üç yüzü olarak birleştirir; halk şiirinin en özlü varoluşsal ifadelerinden biridir.",
+    "sairBilgisi": "17. yüzyıl Anadolu halk şairi, âşık tarzı Türk şiirinin en tanınmış temsilcisidir.",
+    "kaynak": "Karacaoğlan — çapraz doğrulama: kirmizilar.com, tuvart.net (akademik dergi), derssarayi.com, 1000kitap.com (5+ kaynak). NOT: İlk gönderilen versiyonda 'yoksulluk' yerine 'gurbet' yazıyordu; bu, Karacaoğlan'ın orijinal sözü değil, Âşık Kerem'in sonradan yaptığı bir uyarlamadır (kaynak: tyb.org.tr). Orijinal metinle düzeltilmiştir.",
+    "id": 160
   }
 ]
