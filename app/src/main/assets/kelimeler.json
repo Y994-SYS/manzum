@@ -1,52 +1,1472 @@
 [
-  {"id": 1, "kelime": "Gülzar", "anlam": "Gül bahçesi; güzellik ve sevgiliyle özdeşleşen mekân imgesi.", "ornekDize": "Bir lebi gonca yüzü gülzar dersen işte sen", "kategori": "Aşk Terimleri"},
-  {"id": 2, "kelime": "Sitemkâr", "anlam": "Eziyet eden, cefa çektiren; sevgilinin acımasız tavrını anlatan sıfat.", "ornekDize": "Gönlüm yine ol şûh-ı sitemkârı arzular", "kategori": "Aşk Terimleri"},
-  {"id": 3, "kelime": "Firâk", "anlam": "Ayrılık; sevgiliden uzak kalma hâli.", "ornekDize": "Firâkın oduna yandı bu gönül şem'i gibi", "kategori": "Aşk Terimleri"},
-  {"id": 4, "kelime": "Vuslat", "anlam": "Kavuşma; âşığın sevgiliyle bir araya gelmesi.", "ornekDize": "Vuslat günü geldi çattı, oldu iki cihan bir", "kategori": "Aşk Terimleri"},
-  {"id": 5, "kelime": "Hicran", "anlam": "Ayrılık acısı; firaktan daha yoğun bir hüzün taşır.", "ornekDize": "Perde çek çehreme hicran günü ey kanlı sirişk", "kategori": "Aşk Terimleri"},
-  {"id": 6, "kelime": "Cefa", "anlam": "Eziyet, sıkıntı verme; sevgilinin âşığa çektirdiği acı.", "ornekDize": "Dostun cefası gelir, ben onun vefasın isterim", "kategori": "Aşk Terimleri"},
-  {"id": 7, "kelime": "Vefa", "anlam": "Sözünde durma, sadakat; cefanın karşıtı.", "ornekDize": "Dostun cefası gelir, ben onun vefasın isterim", "kategori": "Aşk Terimleri"},
-  {"id": 8, "kelime": "Nâz", "anlam": "Cilve, işveli tavır; sevgilinin çekingen ya da kaprisli hâli.", "ornekDize": "Çık nâz ile seyrâna kurbân olduğum", "kategori": "Aşk Terimleri"},
-  {"id": 9, "kelime": "Handan", "anlam": "Gülen, neşeli, açılmış (çiçek gibi).", "ornekDize": "Gülşen içre gül gibi, gonca gibi handan ol", "kategori": "Aşk Terimleri"},
-  {"id": 10, "kelime": "Dilber", "anlam": "Gönül alan, gönlü çelen; sevgili için kullanılan bir sıfat.", "ornekDize": "Ala gözlerini sevdiğim dilber", "kategori": "Aşk Terimleri"},
-  {"id": 11, "kelime": "Kâfir", "anlam": "Dinsiz; divan şiirinde sevgilinin acımasızlığını abartılı biçimde anlatmak için de kullanılır.", "ornekDize": "Tahammül mülkünü yıktın Hülâgû Han mısın kâfir", "kategori": "Aşk Terimleri"},
-  {"id": 12, "kelime": "Vahdet", "anlam": "Birlik; tasavvufta Allah'ın varlığının tekliği, çokluğun aslında bir olduğu öğretisi.", "ornekDize": "Aşk ile buldu canım, sırr-ı vahdete mahrem", "kategori": "Tasavvuf Terimleri"},
-  {"id": 13, "kelime": "Fenâ", "anlam": "Yokluk; tasavvufta kişinin benliğinden geçip Hak'ta yok olması.", "ornekDize": "Garazım yok reh-i aşkında fenâdan gayrı", "kategori": "Tasavvuf Terimleri"},
-  {"id": 14, "kelime": "İrfan", "anlam": "Allah'ı ve hakikati sezgiyle, kalp yoluyla bilme; bilgiden çok bir tür manevi kavrayış.", "ornekDize": "İnsan-ı Kamil olmağa lazım olan irfan imiş", "kategori": "Tasavvuf Terimleri"},
-  {"id": 15, "kelime": "Mürşid", "anlam": "Manevi yol gösterici, rehber; tasavvufta müridini Hakk'a ulaştıran kişi.", "ornekDize": "Mürşid gerektir bildire Hakkı sana hakkel-yakin", "kategori": "Tasavvuf Terimleri"},
-  {"id": 16, "kelime": "Hakke'l-yakîn", "anlam": "Bizzat yaşayarak, deneyimleyerek edinilen en üst düzey kesin bilgi.", "ornekDize": "Mürşid gerektir bildire Hakkı sana hakkel-yakin", "kategori": "Tasavvuf Terimleri"},
-  {"id": 17, "kelime": "Sırr", "anlam": "Gizli hakikat; akılla değil ancak manevi tecrübeyle kavranabilen iç anlam.", "ornekDize": "Hakkı bilen bilir ki ben zann ü gümâna sığmazam", "kategori": "Tasavvuf Terimleri"},
-  {"id": 18, "kelime": "Lâmekân", "anlam": "Mekânsızlık; tasavvufta zaman ve mekânın ötesindeki ilahi hakikat düzlemi.", "ornekDize": "Cevher-i lâmekân benim kevn ü mekâna sığmazam", "kategori": "Tasavvuf Terimleri"},
-  {"id": 19, "kelime": "Kevn ü mekân", "anlam": "Varlık ve mekân; yaratılmış olan her şey, evren.", "ornekDize": "Kevn ü mekândır âyetim zâta gider bidâyetim", "kategori": "Tasavvuf Terimleri"},
-  {"id": 20, "kelime": "Zât", "anlam": "Öz, asıl varlık; bir şeyin dış görünüşünden bağımsız iç gerçekliği.", "ornekDize": "Hoşça bak zâtına kim zübde-i âlemsin sen", "kategori": "Tasavvuf Terimleri"},
-  {"id": 21, "kelime": "Sûret", "anlam": "Görünen şekil, dış biçim; hakikatin (mananın) karşıtı olarak kullanılır.", "ornekDize": "Sûrete bak vü ma'nîyi sûret içinde tanı kim", "kategori": "Tasavvuf Terimleri"},
-  {"id": 22, "kelime": "Gonca", "anlam": "Henüz açılmamış gül tomurcuğu; sevgilinin ağzı için kullanılan bir benzetme.", "ornekDize": "Bir lebi gonca yüzü gülzar dersen işte sen", "kategori": "Doğa İmgeleri"},
-  {"id": 23, "kelime": "Bülbül", "anlam": "Divan şiirinde gülün âşığı olarak tasvir edilen, inleyerek öten kuş; âşığın sembolü.", "ornekDize": "Bülbül ne yatarsın bahar erişti", "kategori": "Doğa İmgeleri"},
-  {"id": 24, "kelime": "Sünbül", "anlam": "Sümbül çiçeği; kıvırcık yapısı nedeniyle sevgilinin saçına benzetilir.", "ornekDize": "Lebleri mül saçları sünbül yanağı berk-i gül", "kategori": "Doğa İmgeleri"},
-  {"id": 25, "kelime": "Serv", "anlam": "Selvi ağacı; ince, uzun ve dik duruşuyla sevgilinin boyuna benzetilir.", "ornekDize": "Gidelim serv-i revânım yürü Sa'dâbâd'a", "kategori": "Doğa İmgeleri"},
-  {"id": 26, "kelime": "Bahâr", "anlam": "İlkbahar; divan şiirinde neşe, canlanma ve yeniden doğuşun simgesi.", "ornekDize": "Bahâr eyyâmıdır şimden gerû sıyt u sadâ artar", "kategori": "Doğa İmgeleri"},
-  {"id": 27, "kelime": "Hazân", "anlam": "Sonbahar; solma, çöküş ve geçiciliğin simgesi, bahârın karşıtı.", "ornekDize": "Bâğ-ı dehrin hem hazânın hem bahârın görmüşüz", "kategori": "Doğa İmgeleri"},
-  {"id": 28, "kelime": "Berk-i gül", "anlam": "Gül yaprağı; sevgilinin yanağının inceliğine ve pembeliğine benzetilir.", "ornekDize": "Lebleri mül saçları sünbül yanağı berk-i gül", "kategori": "Doğa İmgeleri"},
-  {"id": 29, "kelime": "Felek", "anlam": "Gökyüzü, kader, talih; genellikle insana zulmeden, acımasız bir güç olarak tasvir edilir.", "ornekDize": "Bir gün uğrulayalım çerh-i sitem-perverden", "kategori": "Soyut Kavramlar"},
-  {"id": 30, "kelime": "Devran", "anlam": "Zaman, çağ, dünyanın dönüşü; genellikle geçiciliği vurgulamak için kullanılır.", "ornekDize": "Gam çekme, değme gönül, bu dem senin devranın", "kategori": "Soyut Kavramlar"},
-  {"id": 31, "kelime": "Cihan", "anlam": "Dünya, evren; genellikle 'iki cihan' (dünya ve ahiret) ifadesinde geçer.", "ornekDize": "Bende sığar iki cihân ben bu cihâna sığmazam", "kategori": "Soyut Kavramlar"},
-  {"id": 32, "kelime": "Humâr", "anlam": "İçki sersemliği, mahmurluk; mecazen aşkın verdiği sarhoşluk hâli için de kullanılır.", "ornekDize": "Biz hezârân mest-i mağrûrun humârın görmüşüz", "kategori": "Soyut Kavramlar"},
-  {"id": 33, "kelime": "Meclis", "anlam": "Toplantı, sohbet ve eğlence ortamı; divan şiirinde şarap içilen dostluk ortamı.", "ornekDize": "Görelim meclis-i dilberde ne âdem var imiş", "kategori": "Soyut Kavramlar"},
-  {"id": 34, "kelime": "Sâki", "anlam": "Meclislerde şarap sunan kişi; divan şiirinde sevgiliyle veya şeyhle özdeşleştirilebilir.", "ornekDize": "Sâkiyâ meclise gel cismime gelsin cânım", "kategori": "Soyut Kavramlar"},
-  {"id": 35, "kelime": "Bâde", "anlam": "Şarap; divan şiirinde hem gerçek hem mecazi (ilahi aşk sarhoşluğu) anlamda kullanılır.", "ornekDize": "Kâse-i deryûzeye tebdîl olur câm-ı murâd", "kategori": "Soyut Kavramlar"},
-  {"id": 36, "kelime": "Mahlas", "anlam": "Şairin gerçek adı yerine şiirlerinde kullandığı takma ad (örn. Fuzuli, Baki, Nedim).", "ornekDize": "Bezm-i aşk içre Fuzûlî nice âh eylemeyem", "kategori": "Edebi Terimler"},
-  {"id": 37, "kelime": "Redif", "anlam": "Bir şiirde kafiyeden sonra tekrarlanan, anlamı değişmeyen ek veya kelime.", "ornekDize": "Tahammül mülkünü yıktın Hülâgû Han mısın kâfir / Aman dünyâyı yaktın âteş-i sûzân mısın kâfir", "kategori": "Edebi Terimler"},
-  {"id": 38, "kelime": "Beyit", "anlam": "Divan şiirinin temel birimi; aynı ölçüde iki dizeden oluşur.", "ornekDize": "—", "kategori": "Edebi Terimler"},
-  {"id": 39, "kelime": "Gazel", "anlam": "Divan edebiyatının en yaygın nazım şekli; genellikle aşk konulu, 5-15 beyitlik şiir türü.", "ornekDize": "—", "kategori": "Edebi Terimler"},
-  {"id": 40, "kelime": "Hikemi tarz", "anlam": "Öğüt ve özdeyiş ağırlıklı şiir üslubu; Nabi'nin öncülük ettiği tarz.", "ornekDize": "Etme âr oku öğren ehlinden", "kategori": "Edebi Terimler"},
-  {"id": 41, "kelime": "Matla", "anlam": "Bir gazelin ilk beyti; iki dizesi de birbiriyle kafiyeli olmak zorundadır.", "ornekDize": "—", "kategori": "Edebi Terimler"},
-  {"id": 42, "kelime": "Zülf", "anlam": "Saç, özellikle sevgilinin dağınık veya kıvırcık saçları; genellikle tuzak/ağ imgesiyle birlikte kullanılır.", "ornekDize": "Gönlüm açılır zülf-i perişanını görgeç", "kategori": "Beden İmgeleri"},
-  {"id": 43, "kelime": "Ruhsar", "anlam": "Yanak; sevgilinin güzelliğinin en çok övülen unsurlarından biri.", "ornekDize": "Dilberin ruhsârına gönlüm gibi kan akıdur", "kategori": "Beden İmgeleri"},
-  {"id": 44, "kelime": "Gamze", "anlam": "Süzgün, manalı bakış; sevgilinin âşığı yaralayan ok gibi tasvir edilen bakışı.", "ornekDize": "Gözleri sabr u selâmet ülkesini tarâc eden / Bir amansız gamzesi Tatar dersen işte sen", "kategori": "Beden İmgeleri"},
-  {"id": 45, "kelime": "Şûh", "anlam": "Cilveli, oynak, şen; sevgilinin çekici ama başına buyruk tavrını anlatır.", "ornekDize": "Sana kimisi cânım kimi cânânım deyü söyler", "kategori": "Beden İmgeleri"},
-  {"id": 46, "kelime": "Perişan", "anlam": "Dağınık, karmakarışık; hem saç için hem âşığın ruh hâli için kullanılır.", "ornekDize": "Bir hoş hayal içinde kaldı gönül perişan", "kategori": "Duygu Terimleri"},
-  {"id": 47, "kelime": "Bî-kes", "anlam": "Kimsesiz; yalnız ve desteksiz kalmış kişi.", "ornekDize": "Künc-i gamda bî-kes ü bî-mar dersen işte ben", "kategori": "Duygu Terimleri"},
-  {"id": 48, "kelime": "Nâle", "anlam": "İnleme, figan; acı çeken âşığın çıkardığı ses.", "ornekDize": "Ben ney gibi inlerim feryâd eder tenhâlarda", "kategori": "Duygu Terimleri"},
-  {"id": 49, "kelime": "Âh", "anlam": "İç çekme; derin bir üzüntü veya özlemin dışavurumu.", "ornekDize": "Felekler yandı âhumdan murâdum şem'i yanmaz mı", "kategori": "Duygu Terimleri"},
-  {"id": 50, "kelime": "Tâli", "anlam": "Talih, kader, şans.", "ornekDize": "Târii var her kime kim orada bir yâr var imiş", "kategori": "Soyut Kavramlar"}
+  {
+    "id": 1,
+    "kelime": "Gülzar",
+    "anlam": "Gül bahçesi; güzellik ve sevgiliyle özdeşleşen mekân imgesi.",
+    "ornekDize": "Bir lebi gonca yüzü gülzar dersen işte sen",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 2,
+    "kelime": "Sitemkâr",
+    "anlam": "Eziyet eden, cefa çektiren; sevgilinin acımasız tavrını anlatan sıfat.",
+    "ornekDize": "Gönlüm yine ol şûh-ı sitemkârı arzular",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 3,
+    "kelime": "Firâk",
+    "anlam": "Ayrılık; sevgiliden uzak kalma hâli.",
+    "ornekDize": "Firâkın oduna yandı bu gönül şem'i gibi",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 4,
+    "kelime": "Vuslat",
+    "anlam": "Kavuşma; âşığın sevgiliyle bir araya gelmesi.",
+    "ornekDize": "Vuslat günü geldi çattı, oldu iki cihan bir",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 5,
+    "kelime": "Hicran",
+    "anlam": "Ayrılık acısı; firaktan daha yoğun bir hüzün taşır.",
+    "ornekDize": "Perde çek çehreme hicran günü ey kanlı sirişk",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 6,
+    "kelime": "Cefa",
+    "anlam": "Eziyet, sıkıntı verme; sevgilinin âşığa çektirdiği acı.",
+    "ornekDize": "Dostun cefası gelir, ben onun vefasın isterim",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 7,
+    "kelime": "Vefa",
+    "anlam": "Sözünde durma, sadakat; cefanın karşıtı.",
+    "ornekDize": "Dostun cefası gelir, ben onun vefasın isterim",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 8,
+    "kelime": "Nâz",
+    "anlam": "Cilve, işveli tavır; sevgilinin çekingen ya da kaprisli hâli.",
+    "ornekDize": "Çık nâz ile seyrâna kurbân olduğum",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 9,
+    "kelime": "Handan",
+    "anlam": "Gülen, neşeli, açılmış (çiçek gibi).",
+    "ornekDize": "Gülşen içre gül gibi, gonca gibi handan ol",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 10,
+    "kelime": "Dilber",
+    "anlam": "Gönül alan, gönlü çelen; sevgili için kullanılan bir sıfat.",
+    "ornekDize": "Ala gözlerini sevdiğim dilber",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 11,
+    "kelime": "Kâfir",
+    "anlam": "Dinsiz; divan şiirinde sevgilinin acımasızlığını abartılı biçimde anlatmak için de kullanılır.",
+    "ornekDize": "Tahammül mülkünü yıktın Hülâgû Han mısın kâfir",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 12,
+    "kelime": "Vahdet",
+    "anlam": "Birlik; tasavvufta Allah'ın varlığının tekliği, çokluğun aslında bir olduğu öğretisi.",
+    "ornekDize": "Aşk ile buldu canım, sırr-ı vahdete mahrem",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 13,
+    "kelime": "Fenâ",
+    "anlam": "Yokluk; tasavvufta kişinin benliğinden geçip Hak'ta yok olması.",
+    "ornekDize": "Garazım yok reh-i aşkında fenâdan gayrı",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 14,
+    "kelime": "İrfan",
+    "anlam": "Allah'ı ve hakikati sezgiyle, kalp yoluyla bilme; bilgiden çok bir tür manevi kavrayış.",
+    "ornekDize": "İnsan-ı Kamil olmağa lazım olan irfan imiş",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 15,
+    "kelime": "Mürşid",
+    "anlam": "Manevi yol gösterici, rehber; tasavvufta müridini Hakk'a ulaştıran kişi.",
+    "ornekDize": "Mürşid gerektir bildire Hakkı sana hakkel-yakin",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 16,
+    "kelime": "Hakke'l-yakîn",
+    "anlam": "Bizzat yaşayarak, deneyimleyerek edinilen en üst düzey kesin bilgi.",
+    "ornekDize": "Mürşid gerektir bildire Hakkı sana hakkel-yakin",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 17,
+    "kelime": "Sırr",
+    "anlam": "Gizli hakikat; akılla değil ancak manevi tecrübeyle kavranabilen iç anlam.",
+    "ornekDize": "Hakkı bilen bilir ki ben zann ü gümâna sığmazam",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 18,
+    "kelime": "Lâmekân",
+    "anlam": "Mekânsızlık; tasavvufta zaman ve mekânın ötesindeki ilahi hakikat düzlemi.",
+    "ornekDize": "Cevher-i lâmekân benim kevn ü mekâna sığmazam",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 19,
+    "kelime": "Kevn ü mekân",
+    "anlam": "Varlık ve mekân; yaratılmış olan her şey, evren.",
+    "ornekDize": "Kevn ü mekândır âyetim zâta gider bidâyetim",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 20,
+    "kelime": "Zât",
+    "anlam": "Öz, asıl varlık; bir şeyin dış görünüşünden bağımsız iç gerçekliği.",
+    "ornekDize": "Hoşça bak zâtına kim zübde-i âlemsin sen",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 21,
+    "kelime": "Sûret",
+    "anlam": "Görünen şekil, dış biçim; hakikatin (mananın) karşıtı olarak kullanılır.",
+    "ornekDize": "Sûrete bak vü ma'nîyi sûret içinde tanı kim",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 22,
+    "kelime": "Gonca",
+    "anlam": "Henüz açılmamış gül tomurcuğu; sevgilinin ağzı için kullanılan bir benzetme.",
+    "ornekDize": "Bir lebi gonca yüzü gülzar dersen işte sen",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 23,
+    "kelime": "Bülbül",
+    "anlam": "Divan şiirinde gülün âşığı olarak tasvir edilen, inleyerek öten kuş; âşığın sembolü.",
+    "ornekDize": "Bülbül ne yatarsın bahar erişti",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 24,
+    "kelime": "Sünbül",
+    "anlam": "Sümbül çiçeği; kıvırcık yapısı nedeniyle sevgilinin saçına benzetilir.",
+    "ornekDize": "Lebleri mül saçları sünbül yanağı berk-i gül",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 25,
+    "kelime": "Serv",
+    "anlam": "Selvi ağacı; ince, uzun ve dik duruşuyla sevgilinin boyuna benzetilir.",
+    "ornekDize": "Gidelim serv-i revânım yürü Sa'dâbâd'a",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 26,
+    "kelime": "Bahâr",
+    "anlam": "İlkbahar; divan şiirinde neşe, canlanma ve yeniden doğuşun simgesi.",
+    "ornekDize": "Bahâr eyyâmıdır şimden gerû sıyt u sadâ artar",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 27,
+    "kelime": "Hazân",
+    "anlam": "Sonbahar; solma, çöküş ve geçiciliğin simgesi, bahârın karşıtı.",
+    "ornekDize": "Bâğ-ı dehrin hem hazânın hem bahârın görmüşüz",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 28,
+    "kelime": "Berk-i gül",
+    "anlam": "Gül yaprağı; sevgilinin yanağının inceliğine ve pembeliğine benzetilir.",
+    "ornekDize": "Lebleri mül saçları sünbül yanağı berk-i gül",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 29,
+    "kelime": "Felek",
+    "anlam": "Gökyüzü, kader, talih; genellikle insana zulmeden, acımasız bir güç olarak tasvir edilir.",
+    "ornekDize": "Bir gün uğrulayalım çerh-i sitem-perverden",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 30,
+    "kelime": "Devran",
+    "anlam": "Zaman, çağ, dünyanın dönüşü; genellikle geçiciliği vurgulamak için kullanılır.",
+    "ornekDize": "Gam çekme, değme gönül, bu dem senin devranın",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 31,
+    "kelime": "Cihan",
+    "anlam": "Dünya, evren; genellikle 'iki cihan' (dünya ve ahiret) ifadesinde geçer.",
+    "ornekDize": "Bende sığar iki cihân ben bu cihâna sığmazam",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 32,
+    "kelime": "Humâr",
+    "anlam": "İçki sersemliği, mahmurluk; mecazen aşkın verdiği sarhoşluk hâli için de kullanılır.",
+    "ornekDize": "Biz hezârân mest-i mağrûrun humârın görmüşüz",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 33,
+    "kelime": "Meclis",
+    "anlam": "Toplantı, sohbet ve eğlence ortamı; divan şiirinde şarap içilen dostluk ortamı.",
+    "ornekDize": "Görelim meclis-i dilberde ne âdem var imiş",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 34,
+    "kelime": "Sâki",
+    "anlam": "Meclislerde şarap sunan kişi; divan şiirinde sevgiliyle veya şeyhle özdeşleştirilebilir.",
+    "ornekDize": "Sâkiyâ meclise gel cismime gelsin cânım",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 35,
+    "kelime": "Bâde",
+    "anlam": "Şarap; divan şiirinde hem gerçek hem mecazi (ilahi aşk sarhoşluğu) anlamda kullanılır.",
+    "ornekDize": "Kâse-i deryûzeye tebdîl olur câm-ı murâd",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 36,
+    "kelime": "Mahlas",
+    "anlam": "Şairin gerçek adı yerine şiirlerinde kullandığı takma ad (örn. Fuzuli, Baki, Nedim).",
+    "ornekDize": "Bezm-i aşk içre Fuzûlî nice âh eylemeyem",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 37,
+    "kelime": "Redif",
+    "anlam": "Bir şiirde kafiyeden sonra tekrarlanan, anlamı değişmeyen ek veya kelime.",
+    "ornekDize": "Tahammül mülkünü yıktın Hülâgû Han mısın kâfir / Aman dünyâyı yaktın âteş-i sûzân mısın kâfir",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 38,
+    "kelime": "Beyit",
+    "anlam": "Divan şiirinin temel birimi; aynı ölçüde iki dizeden oluşur.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 39,
+    "kelime": "Gazel",
+    "anlam": "Divan edebiyatının en yaygın nazım şekli; genellikle aşk konulu, 5-15 beyitlik şiir türü.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 40,
+    "kelime": "Hikemi tarz",
+    "anlam": "Öğüt ve özdeyiş ağırlıklı şiir üslubu; Nabi'nin öncülük ettiği tarz.",
+    "ornekDize": "Etme âr oku öğren ehlinden",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 41,
+    "kelime": "Matla",
+    "anlam": "Bir gazelin ilk beyti; iki dizesi de birbiriyle kafiyeli olmak zorundadır.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 42,
+    "kelime": "Zülf",
+    "anlam": "Saç, özellikle sevgilinin dağınık veya kıvırcık saçları; genellikle tuzak/ağ imgesiyle birlikte kullanılır.",
+    "ornekDize": "Gönlüm açılır zülf-i perişanını görgeç",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 43,
+    "kelime": "Ruhsar",
+    "anlam": "Yanak; sevgilinin güzelliğinin en çok övülen unsurlarından biri.",
+    "ornekDize": "Dilberin ruhsârına gönlüm gibi kan akıdur",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 44,
+    "kelime": "Gamze",
+    "anlam": "Süzgün, manalı bakış; sevgilinin âşığı yaralayan ok gibi tasvir edilen bakışı.",
+    "ornekDize": "Gözleri sabr u selâmet ülkesini tarâc eden / Bir amansız gamzesi Tatar dersen işte sen",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 45,
+    "kelime": "Şûh",
+    "anlam": "Cilveli, oynak, şen; sevgilinin çekici ama başına buyruk tavrını anlatır.",
+    "ornekDize": "Sana kimisi cânım kimi cânânım deyü söyler",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 46,
+    "kelime": "Perişan",
+    "anlam": "Dağınık, karmakarışık; hem saç için hem âşığın ruh hâli için kullanılır.",
+    "ornekDize": "Bir hoş hayal içinde kaldı gönül perişan",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 47,
+    "kelime": "Bî-kes",
+    "anlam": "Kimsesiz; yalnız ve desteksiz kalmış kişi.",
+    "ornekDize": "Künc-i gamda bî-kes ü bî-mar dersen işte ben",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 48,
+    "kelime": "Nâle",
+    "anlam": "İnleme, figan; acı çeken âşığın çıkardığı ses.",
+    "ornekDize": "Ben ney gibi inlerim feryâd eder tenhâlarda",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 49,
+    "kelime": "Âh",
+    "anlam": "İç çekme; derin bir üzüntü veya özlemin dışavurumu.",
+    "ornekDize": "Felekler yandı âhumdan murâdum şem'i yanmaz mı",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 50,
+    "kelime": "Tâli",
+    "anlam": "Talih, kader, şans.",
+    "ornekDize": "Târii var her kime kim orada bir yâr var imiş",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 51,
+    "kelime": "Aşinâ",
+    "anlam": "Tanıdık, bildik; sevgiliye veya aşk derdine alışkın olan.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 52,
+    "kelime": "Bîgâne",
+    "anlam": "Yabancı, ilgisiz; sevgilinin âşığa karşı kayıtsızlığını anlatan sıfat.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 53,
+    "kelime": "Rakîb",
+    "anlam": "Sevgiliye âşığın gözünde göz diken kişi; klasik şiirde âşığın baş düşmanı.",
+    "ornekDize": "Rakîbi bezme kabul etme sâkî mahrem-i râz eyle beni",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 54,
+    "kelime": "Ağyâr",
+    "anlam": "Yabancılar, başkaları; sevgiliye yakın olup âşığı dışlayan kişiler.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 55,
+    "kelime": "Nigâh",
+    "anlam": "Bakış; sevgilinin âşığı etkileyen, çoğu zaman yaralayan bakışı.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 56,
+    "kelime": "Bûse",
+    "anlam": "Öpücük; vuslatın en yoğun sembollerinden biri.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 57,
+    "kelime": "İşve",
+    "anlam": "Cilve, naz; sevgilinin bilinçli çekicilik gösterisi.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 58,
+    "kelime": "Edâ",
+    "anlam": "Tavır, davranış biçimi; sevgilinin çekiciliğini oluşturan üslup.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 59,
+    "kelime": "Tîğ-ı müjgân",
+    "anlam": "Kirpik kılıcı; sevgilinin bakışının âşığı yaralayan gücünü anlatan mecaz.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 60,
+    "kelime": "Kâkül",
+    "anlam": "Alına dökülen kısa, kıvrık saç; sevgilinin çekiciliğinin unsurlarından biri.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 61,
+    "kelime": "Turra",
+    "anlam": "Alına düşen saç lülesi; kâkülle yakın anlamda kullanılır.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 62,
+    "kelime": "Hat",
+    "anlam": "Yeni çıkan sakal/bıyık teri; sevgilinin gençliğinin bir işareti olarak şiirde işlenir.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 63,
+    "kelime": "Hâl",
+    "anlam": "Ben, yüzdeki küçük leke; sevgilinin yüzünde bir güzellik unsuru olarak övülür.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 64,
+    "kelime": "Dehân",
+    "anlam": "Ağız; küçüklüğü nedeniyle 'yok'a benzetilen bir güzellik unsuru.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 65,
+    "kelime": "Miyân",
+    "anlam": "Bel; incelik ve yokluk mübalağasıyla anılan sevgili bölgesi.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 66,
+    "kelime": "Kemer",
+    "anlam": "Kuşak, kemer; sevgilinin ince belini saran süs eşyası.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 67,
+    "kelime": "Ebrû",
+    "anlam": "Kaş; kavis biçimiyle çoğunlukla yaya benzetilir.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 68,
+    "kelime": "Çeşm",
+    "anlam": "Göz; sevgilinin en çok övülen ve en tehlikeli uzvu.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 69,
+    "kelime": "Mest",
+    "anlam": "Sarhoş bakışlı; sevgilinin süzgün, baygın gözlerini tarif eden sıfat.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 70,
+    "kelime": "Sürme",
+    "anlam": "Göze çekilen siyah boya; gözün etkisini artıran bir süs unsuru olarak işlenir.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 71,
+    "kelime": "Müjgân",
+    "anlam": "Kirpik; sevgilinin bakışının oku fırlattığı yer olarak tasvir edilir.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 72,
+    "kelime": "Leb",
+    "anlam": "Dudak; tatlılığı nedeniyle şeker veya şaraba benzetilir.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 73,
+    "kelime": "Dendân",
+    "anlam": "Diş; incisi andıran beyazlığıyla övülen bir güzellik unsuru.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 74,
+    "kelime": "Zenahdan",
+    "anlam": "Çene; genellikle 'çukur' imgesiyle âşığı düşüren bir tuzak olarak anılır.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 75,
+    "kelime": "İzâr",
+    "anlam": "Yanak; gül yaprağına, ayna parlaklığına benzetilen bir güzellik unsuru.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 76,
+    "kelime": "Nigâr",
+    "anlam": "Resim gibi güzel; sevgili için kullanılan bir sıfat.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 77,
+    "kelime": "Peri",
+    "anlam": "Görünmez, olağanüstü güzellikte varlık; sevgilinin benzetildiği masalsı bir figür.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 78,
+    "kelime": "Şûride",
+    "anlam": "Perişan, aşk derdiyle dağılmış; âşığın ruh hâlini tarif eden sıfat.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 79,
+    "kelime": "Dîvâne",
+    "anlam": "Deli, çılgın; aşkın etkisiyle aklını kaybetmiş âşık.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 80,
+    "kelime": "Bezm-i aşk",
+    "anlam": "Aşk meclisi; âşıkların toplandığı mecazi ortam.",
+    "ornekDize": "Bezm-i aşk içre Fuzûlî nice âh eylemeyem",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 81,
+    "kelime": "Sûz",
+    "anlam": "Yanma, tutuşma; aşkın verdiği içsel ateşi anlatan kavram.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 82,
+    "kelime": "Girye",
+    "anlam": "Ağlama, gözyaşı dökme; âşığın en sık başvurduğu ifade biçimi.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 83,
+    "kelime": "Ah u figân",
+    "anlam": "İnleme ve feryat; aşk acısının dışa vurulma biçimi.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 84,
+    "kelime": "Dil-ber",
+    "anlam": "Gönül alan; sevgili için kullanılan yaygın sıfatlardan biri.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 85,
+    "kelime": "Yâr",
+    "anlam": "Sevgili, dost; klasik şiirde en sık kullanılan hitap kelimelerinden.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 86,
+    "kelime": "Nâmerd",
+    "anlam": "Mert olmayan, sadakatsiz; sevgili veya rakip için kullanılan olumsuz sıfat.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 87,
+    "kelime": "Bî-vefâ",
+    "anlam": "Vefasız; sevgilinin sadakatsizliğini anlatan sıfat.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 88,
+    "kelime": "Şeb-i hicrân",
+    "anlam": "Ayrılık gecesi; âşığın en çok acı çektiği zaman dilimi.",
+    "ornekDize": "Şeb-i hicrân yanar cânım döker kan çeşm-i giryânım",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 89,
+    "kelime": "Ru'yet",
+    "anlam": "Görme, sevgiliyi görebilme hâli; vuslatın ön koşulu.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 90,
+    "kelime": "İştiyâk",
+    "anlam": "Şiddetli özlem, arzu; kavuşma isteğinin en yoğun hâli.",
+    "ornekDize": "—",
+    "kategori": "Aşk Terimleri"
+  },
+  {
+    "id": 91,
+    "kelime": "Vahdet-i vücûd",
+    "anlam": "Varlığın birliği öğretisi; evrendeki her şeyin Hakk'ın tecellisi olduğu görüşü.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 92,
+    "kelime": "Tecellî",
+    "anlam": "Görünme, ortaya çıkma; ilahi hakikatin yaratılmışlarda yansıması.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 93,
+    "kelime": "Beka",
+    "anlam": "Kalıcılık; fenâdan sonra Hak'ta yeniden var olma hâli.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 94,
+    "kelime": "Hâl",
+    "anlam": "Tasavvufta kulun iradesi dışında yaşadığı geçici manevi durum.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 95,
+    "kelime": "Makam",
+    "anlam": "Sâlikin çaba ile ulaştığı kalıcı manevi mertebe.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 96,
+    "kelime": "Sâlik",
+    "anlam": "Tasavvuf yolunda ilerleyen kişi, yolcu.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 97,
+    "kelime": "Mürîd",
+    "anlam": "Bir mürşide bağlanmış, onun terbiyesinde yol alan kişi.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 98,
+    "kelime": "Zikir",
+    "anlam": "Allah'ı anma; tasavvufta kalbi ve dili sürekli meşgul eden ibadet biçimi.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 99,
+    "kelime": "Riyâzet",
+    "anlam": "Nefsi terbiye etmek için uygulanan perhiz ve çile.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 100,
+    "kelime": "Nefs",
+    "anlam": "Kişinin kötülüğe meyilli benlik yönü; tasavvufta terbiye edilmesi gereken güç.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 101,
+    "kelime": "Kâmil insan",
+    "anlam": "Manevi olgunluğa ulaşmış, Hakk'ın sıfatlarını kendinde toplayan insan.",
+    "ornekDize": "İnsan-ı Kamil olmağa lazım olan irfan imiş",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 102,
+    "kelime": "Aynel-yakîn",
+    "anlam": "Gözle görürcesine kesin bilgi; ilmel-yakînden daha üst bir bilgi derecesi.",
+    "ornekDize": "Câm-ı Cem'le içtik biz ayne'l-yakîn",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 103,
+    "kelime": "İlmel-yakîn",
+    "anlam": "Akıl ve öğrenme yoluyla edinilen kesin bilgi; hakke'l-yakînden önceki basamak.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 104,
+    "kelime": "Şeriat",
+    "anlam": "Tasavvufta dört kapıdan ilki; dinin zahiri hükümleri.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 105,
+    "kelime": "Tarikat",
+    "anlam": "Dört kapıdan ikincisi; bir mürşid rehberliğinde izlenen manevi yol.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 106,
+    "kelime": "Marifet",
+    "anlam": "Dört kapıdan üçüncüsü; Hakk'ı derinlemesine tanıma hâli.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 107,
+    "kelime": "Hakikat",
+    "anlam": "Dört kapıdan sonuncusu; ilahi hakikate doğrudan erişme mertebesi.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 108,
+    "kelime": "Aşk-ı hakikî",
+    "anlam": "Gerçek aşk; Hakk'a duyulan, mecazi aşkın ötesindeki asıl sevgi.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 109,
+    "kelime": "Aşk-ı mecâzî",
+    "anlam": "Mecazi aşk; bir insana duyulan ve tasavvufta hakiki aşka geçiş basamağı sayılan sevgi.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 110,
+    "kelime": "Ney",
+    "anlam": "Tasavvufta aslından/asıl vatanından ayrı düşmüş, inleyen ruhun sembolü olan enstrüman.",
+    "ornekDize": "Ben ney gibi inlerim feryâd eder tenhâlarda",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 111,
+    "kelime": "Semâ",
+    "anlam": "Mevlevi tarikatında dönerek yapılan zikir töreni.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 112,
+    "kelime": "Hû",
+    "anlam": "Allah'ı anmada kullanılan zikir sözcüklerinden biri.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 113,
+    "kelime": "Vuslat-ı Hak",
+    "anlam": "Hakk'a kavuşma; tasavvufta manevi yolculuğun nihai hedefi.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 114,
+    "kelime": "Tevekkül",
+    "anlam": "Çabadan sonra sonucu Hakk'a bırakma, teslimiyet hâli.",
+    "ornekDize": "Mevlâ görelim neyler / Neylerse güzel eyler",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 115,
+    "kelime": "Halvet",
+    "anlam": "Yalnız kalıp ibadetle meşgul olma; Halvetiyye tarikatının da temel uygulaması.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 116,
+    "kelime": "Şeyh",
+    "anlam": "Bir tarikatın manevi lideri, mürşid.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 117,
+    "kelime": "Erbaîn",
+    "anlam": "Kırk gün süren çile, riyazet dönemi.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 118,
+    "kelime": "Vird",
+    "anlam": "Belirli zamanlarda düzenli tekrarlanan dua veya zikir.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 119,
+    "kelime": "Hurûfîlik",
+    "anlam": "Harflerin ve sayıların gizli anlamlarına dayanan tasavvufi-felsefi akım.",
+    "ornekDize": "—",
+    "kategori": "Tasavvuf Terimleri"
+  },
+  {
+    "id": 120,
+    "kelime": "Lâle",
+    "anlam": "Lale çiçeği; genellikle aşk acısıyla yanan yürek veya kırmızı renkle özdeşleştirilir.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 121,
+    "kelime": "Nesrin",
+    "anlam": "Beyaz, kokulu bir çiçek; sevgilinin teninin beyazlığına benzetilir.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 122,
+    "kelime": "Reyhan",
+    "anlam": "Fesleğen; kokusuyla sevgilinin saçına veya teninin kokusuna benzetilen bitki.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 123,
+    "kelime": "Çemen",
+    "anlam": "Çimenlik, yeşillik; bahar bahçesinin canlılığını simgeler.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 124,
+    "kelime": "Gülşen",
+    "anlam": "Gül bahçesi; sevgiliyle özdeşleşen ideal, güzel mekân.",
+    "ornekDize": "Gülşen içre gül gibi, gonca gibi handan ol",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 125,
+    "kelime": "Şebnem",
+    "anlam": "Çiy tanesi; gecenin bıraktığı ince, kırılgan güzelliğin simgesi.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 126,
+    "kelime": "Ebr",
+    "anlam": "Bulut; genellikle gözyaşı döken âşığa veya kederli havaya benzetilir.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 127,
+    "kelime": "Bâd-ı sabâ",
+    "anlam": "Sabah rüzgârı; sevgiliden haber getiren mecazi ulak.",
+    "ornekDize": "Ne açar kimse kapım bâd-ı sabâdan gayrı",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 128,
+    "kelime": "Meh",
+    "anlam": "Ay; parlaklığıyla sevgilinin yüzüne benzetilen gök cismi.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 129,
+    "kelime": "Hurşid",
+    "anlam": "Güneş; ışığı ve haşmetiyle sevgiliye veya padişaha benzetilir.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 130,
+    "kelime": "Ahu",
+    "anlam": "Ceylan/karaca; ürkek bakışlarıyla sevgilinin gözlerine benzetilen hayvan.",
+    "ornekDize": "Beni bir gözleri âhûya zebûn etti felek",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 131,
+    "kelime": "Tûti",
+    "anlam": "Papağan; güzel konuşma ve şirin sesin simgesi.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 132,
+    "kelime": "Şem",
+    "anlam": "Mum; yanarak erimesiyle aşk acısı çeken âşığın sembolü.",
+    "ornekDize": "Firâkın oduna yandı bu gönül şem'i gibi",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 133,
+    "kelime": "Pervane",
+    "anlam": "Ateşböceği/kelebek; mum alevine kendini atan, aşkın kendini feda eden sembolü.",
+    "ornekDize": "Âlemi pervâne-i şem'i cemâlin kıldı aşk",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 134,
+    "kelime": "Nesîm",
+    "anlam": "Hafif, tatlı esen rüzgâr; ferahlık ve müjde taşıyan doğa unsuru.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 135,
+    "kelime": "Gülbün",
+    "anlam": "Gül fidanı; sevgilinin genç, taze güzelliğine benzetilir.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 136,
+    "kelime": "Hâr",
+    "anlam": "Diken; gülün yanındaki acı veren, çileyi simgeleyen unsur.",
+    "ornekDize": "Gül gibi hâr ile hem-hâne olup kalalım",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 137,
+    "kelime": "Çeşme",
+    "anlam": "Pınar, kaynak; hem gerçek su kaynağı hem mecazi kavuşma/hayat kaynağı.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 138,
+    "kelime": "Kevser",
+    "anlam": "Cennetteki ırmak; en temiz, en tatlı suyun sembolü.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 139,
+    "kelime": "Zümrüd",
+    "anlam": "Zümrüt; yeşil rengiyle bahar çayırlarını nitelemede kullanılan taş.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 140,
+    "kelime": "Yâsemen",
+    "anlam": "Yasemin çiçeği; beyazlığı ve kokusuyla güzellik unsuru olarak anılır.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 141,
+    "kelime": "Dâg",
+    "anlam": "Yanık izi, yara; hem çiçeklerin lekesi hem aşk acısının bedendeki izi.",
+    "ornekDize": "—",
+    "kategori": "Doğa İmgeleri"
+  },
+  {
+    "id": 142,
+    "kelime": "Kader",
+    "anlam": "Yazgı; insanın önceden belirlenmiş talihi.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 143,
+    "kelime": "Kısmet",
+    "anlam": "Pay, nasip; kişiye önceden ayrılmış olan şey.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 144,
+    "kelime": "Dehr",
+    "anlam": "Dünya, zaman; genellikle acımasız ve değişken bir güç olarak anılır.",
+    "ornekDize": "Bâğ-ı dehrin hem hazânın hem bahârın görmüşüz",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 145,
+    "kelime": "Rüzgâr",
+    "anlam": "Zaman, talih, çağ; devranla yakın anlamda kullanılır.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 146,
+    "kelime": "Ecel",
+    "anlam": "Ölüm vakti; kaçınılmaz sonun geldiği an.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 147,
+    "kelime": "Fânî",
+    "anlam": "Geçici, ölümlü; dünyanın ve insanın kalıcı olmayışını anlatan sıfat.",
+    "ornekDize": "Bu dünyanın malına mülküne güvenme sen",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 148,
+    "kelime": "Bâkî",
+    "anlam": "Kalıcı, ebedî; fâninin karşıtı, sadece Hakk'a ve iyi işlere yakıştırılan nitelik.",
+    "ornekDize": "Bâkî kalan bu kubbede bir hoş sadâ imiş",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 149,
+    "kelime": "Rütbe",
+    "anlam": "Derece, mevki; toplumsal veya manevi hiyerarşideki konum.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 150,
+    "kelime": "İkbâl",
+    "anlam": "Talih, refah, yükselme; genellikle geçici dünya nimeti olarak eleştirilir.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 151,
+    "kelime": "İdbar",
+    "anlam": "Talihsizlik, düşkünlük; ikbâlin karşıtı.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 152,
+    "kelime": "Gam",
+    "anlam": "Keder, tasa; klasik şiirde en sık işlenen duygulardan biri.",
+    "ornekDize": "Gam çekme, değme gönül, bu dem senin devranın",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 153,
+    "kelime": "Elem",
+    "anlam": "Acı, sıkıntı; gam ile yakın anlamlı kullanılan kavram.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 154,
+    "kelime": "Neşât",
+    "anlam": "Sevinç, coşku; gam ve elemin karşıtı olan ruh hâli.",
+    "ornekDize": "—",
+    "kategori": "Soyut Kavramlar"
+  },
+  {
+    "id": 155,
+    "kelime": "Peymâne",
+    "anlam": "Şarap kadehi; meclislerde kullanılan içki kabı.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 156,
+    "kelime": "Câm",
+    "anlam": "Kadeh; şaraple özdeşleşen, çoğu zaman aşkın sarhoşluğunu simgeleyen kap.",
+    "ornekDize": "Kâse-i deryûzeye tebdîl olur câm-ı murâd",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 157,
+    "kelime": "Humhâne",
+    "anlam": "Şarap satılan/içilen yer, meyhane.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 158,
+    "kelime": "Mest ü harâb",
+    "anlam": "Sarhoş ve perişan; hem içki hem aşk sarhoşluğu için kullanılır.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 159,
+    "kelime": "Rind",
+    "anlam": "Dünya kurallarına aldırmayan, hayattan zevk alan, gönlü hür kişi.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 160,
+    "kelime": "Zâhid",
+    "anlam": "Dinî kuralları katı biçimde uygulayan, rindin karşıtı olan sofu tip.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 161,
+    "kelime": "Mey",
+    "anlam": "Şarap; bâde ile eş anlamlı kullanılan kelime.",
+    "ornekDize": "Mey ile dem tuttuk eyyam-ı bahar",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 162,
+    "kelime": "Humâr",
+    "anlam": "İçki sersemliği; şarabın etkisinin geçme sürecindeki baş ağrısı hâli.",
+    "ornekDize": "Biz hezârân mest-i mağrûrun humârın görmüşüz",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 163,
+    "kelime": "Piyâle",
+    "anlam": "Küçük, yassı şarap kadehi.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 164,
+    "kelime": "Meyhane",
+    "anlam": "İçki içilen umumi mekân; rint hayatının merkezi.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 165,
+    "kelime": "Şem-i meclis",
+    "anlam": "Meclisi aydınlatan mum; toplantının merkezindeki figürü de simgeler.",
+    "ornekDize": "—",
+    "kategori": "Meclis ve Şarap Terimleri"
+  },
+  {
+    "id": 166,
+    "kelime": "Kaside",
+    "anlam": "Din büyüklerini, devlet adamlarını öven, genellikle uzun nazım biçimi.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 167,
+    "kelime": "Mesnevi",
+    "anlam": "Kendi içinde kafiyeli beyitlerden oluşan, uzun hikâyeler anlatmaya elverişli nazım şekli.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 168,
+    "kelime": "Rubai",
+    "anlam": "Dört dizeden oluşan, felsefi ve özdeyiş içerikli kısa nazım biçimi.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 169,
+    "kelime": "Murabba",
+    "anlam": "Dörtlüklerden oluşan, genellikle bestelenmeye uygun nazım şekli.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 170,
+    "kelime": "Terkib-i bend",
+    "anlam": "Bentlerden oluşan, her bendin sonunda değişen bir bağlantı beytiyle biten uzun nazım şekli.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 171,
+    "kelime": "Şarkı",
+    "anlam": "Divan şiirinde bestelenmek üzere yazılan, genellikle nakaratlı hafif nazım türü.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 172,
+    "kelime": "Müstezad",
+    "anlam": "Gazelin dizelerine kısa ek dizeler eklenerek oluşturulan nazım biçimi.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 173,
+    "kelime": "Nazire",
+    "anlam": "Bir şairin ünlü bir şiirine aynı vezin ve kafiyeyle yazılan benzer şiir.",
+    "ornekDize": "Bahârı n'eyleyelim k'ol gonce-fem gülüp açılmağı",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 174,
+    "kelime": "Tazmin",
+    "anlam": "Başka bir şairin dizesini kendi şiirine alıntılayarak kullanma sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 175,
+    "kelime": "Makta",
+    "anlam": "Bir gazelin son beyti; genellikle şairin mahlasının geçtiği beyit.",
+    "ornekDize": "Söyle şol kan olacağı bize sunsun Bâkî",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 176,
+    "kelime": "Aruz",
+    "anlam": "Hece uzunluk-kısalığına dayanan, Arap-Fars kökenli klasik Türk şiiri vezni.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 177,
+    "kelime": "Kafiye",
+    "anlam": "Dize sonlarındaki ses benzerliği.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 178,
+    "kelime": "Teşbih",
+    "anlam": "Benzetme sanatı; bir şeyi ona benzeyen başka bir şeyle anlatma.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 179,
+    "kelime": "İstiare",
+    "anlam": "Eğretileme; benzetmenin unsurlarından yalnızca birinin kullanılmasıyla yapılan mecaz.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 180,
+    "kelime": "Mecaz",
+    "anlam": "Bir sözü gerçek anlamının dışında kullanma sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 181,
+    "kelime": "Tevriye",
+    "anlam": "Bir sözcüğün hem yakın hem uzak iki anlamını birlikte kullanma sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 182,
+    "kelime": "Cinas",
+    "anlam": "Yazılışı aynı, anlamı farklı sözcükleri bir arada kullanma sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 183,
+    "kelime": "Telmih",
+    "anlam": "Bilinen bir olaya, kişiye veya hikâyeye örtük biçimde gönderme yapma sanatı.",
+    "ornekDize": "Bende Mecnun'dan füzun âşıklık istidadı var",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 184,
+    "kelime": "Hüsn-i talil",
+    "anlam": "Doğal bir olayı hayali, güzel bir sebebe bağlama sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 185,
+    "kelime": "Tenasüp",
+    "anlam": "Anlamca ilişkili sözcükleri bir arada kullanma sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 186,
+    "kelime": "Mübalağa",
+    "anlam": "Abartma sanatı; bir durumu olduğundan çok fazla veya az gösterme.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 187,
+    "kelime": "Tezat",
+    "anlam": "Zıt anlamlı sözcük veya kavramları bir arada kullanma sanatı.",
+    "ornekDize": "Ne varlığa sevinirim ne yokluğa yerinirim",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 188,
+    "kelime": "Terdid",
+    "anlam": "Bir sözü ilk anda farklı, sonra gerçek anlamıyla anlaşılacak biçimde kurma sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 189,
+    "kelime": "Kinaye",
+    "anlam": "Bir sözü hem gerçek hem mecaz anlama gelecek biçimde kullanma sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 190,
+    "kelime": "Nida",
+    "anlam": "Seslenme sanatı; şiirde bir varlığa veya kavrama doğrudan hitap etme.",
+    "ornekDize": "Sâkiyâ meclise gel cismime gelsin cânım",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 191,
+    "kelime": "Tekrir",
+    "anlam": "Etkiyi güçlendirmek için bir sözcük veya sesi yineleme sanatı.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 192,
+    "kelime": "Divan",
+    "anlam": "Bir şairin şiirlerinin belirli bir düzende toplandığı eser.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 193,
+    "kelime": "Hamse",
+    "anlam": "Bir şairin beş mesneviden oluşan eser bütünü.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 194,
+    "kelime": "Tuyuğ",
+    "anlam": "Dört dizeden oluşan, Türklere özgü kısa nazım biçimi.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 195,
+    "kelime": "Muamma",
+    "anlam": "Bir ismi veya kavramı bilmece biçiminde gizleyen manzum bulmaca türü.",
+    "ornekDize": "—",
+    "kategori": "Edebi Terimler"
+  },
+  {
+    "id": 196,
+    "kelime": "Kaş",
+    "anlam": "Yay biçimiyle sevgilinin gözünü çeken bir güzellik unsuru; ebrû ile eş anlamlı.",
+    "ornekDize": "—",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 197,
+    "kelime": "Boy",
+    "anlam": "Sevgilinin endamı; genellikle selviye benzetilen incelik ve uzunluk.",
+    "ornekDize": "Gidelim serv-i revânım yürü Sa'dâbâd'a",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 198,
+    "kelime": "Ten",
+    "anlam": "Beden, cilt; beyazlığıyla nur veya gül yaprağına benzetilir.",
+    "ornekDize": "—",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 199,
+    "kelime": "Kirpik",
+    "anlam": "Bkz. müjgân; sevgilinin bakışının ok fırlattığı yer.",
+    "ornekDize": "—",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 200,
+    "kelime": "Sîne",
+    "anlam": "Göğüs; aşk acısının barındığı, yara aldığı yer olarak tasvir edilir.",
+    "ornekDize": "Aşk mıdır sinem içre gelip de cân eyleyen",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 201,
+    "kelime": "Dil",
+    "anlam": "Gönül; klasik şiirde duyguların merkezi kabul edilen organ/kavram.",
+    "ornekDize": "Bir hoş hayal içinde kaldı gönül perişan",
+    "kategori": "Beden İmgeleri"
+  },
+  {
+    "id": 202,
+    "kelime": "Firkât",
+    "anlam": "Ayrılık; firâk ile eş anlamlı, hüznü vurgulayan biçim.",
+    "ornekDize": "—",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 203,
+    "kelime": "Hasret",
+    "anlam": "Özlem; ulaşılamayan bir şeye duyulan derin istek.",
+    "ornekDize": "Ey gül sana olmaz bahar eyyamı hasret",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 204,
+    "kelime": "Melâl",
+    "anlam": "Bezginlik, gönül darlığı; hafif ama sürekli bir hüzün hâli.",
+    "ornekDize": "Ne vasl-ı yâra handânam ne hicrândan melâlim var",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 205,
+    "kelime": "Keder",
+    "anlam": "Üzüntü, tasa; gam ile yakın anlamda kullanılır.",
+    "ornekDize": "—",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 206,
+    "kelime": "Tahammül",
+    "anlam": "Sabır, dayanma gücü; acı karşısında direnme kapasitesi.",
+    "ornekDize": "Tahammül mülkünü yıktın Hülâgû Han mısın kâfir",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 207,
+    "kelime": "Figân",
+    "anlam": "Feryat, yüksek sesle inleme; acının en şiddetli dışavurumu.",
+    "ornekDize": "İlhami derd-i aşk ile daim figan eder",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 208,
+    "kelime": "Şevk",
+    "anlam": "Coşku, istek; bazen acı içinde bile duyulan tuhaf bir sevinç.",
+    "ornekDize": "Şevk ile çekti bu gönül ayrılık derdini",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 209,
+    "kelime": "Teselli",
+    "anlam": "Avunma, acıyı hafifletme çabası.",
+    "ornekDize": "—",
+    "kategori": "Duygu Terimleri"
+  },
+  {
+    "id": 210,
+    "kelime": "Gussa",
+    "anlam": "Tasa, keder; gam ile eş anlamlı, ağırlıklı olarak nesir ve nazımda kullanılan kelime.",
+    "ornekDize": "—",
+    "kategori": "Duygu Terimleri"
+  }
 ]
