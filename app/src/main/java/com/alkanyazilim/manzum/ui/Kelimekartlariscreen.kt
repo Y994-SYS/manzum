@@ -7,7 +7,11 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Close
+import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -18,6 +22,7 @@ import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -34,7 +39,11 @@ fun KelimeKartlariScreen(
     toplamSayisi: Int,
     kategoriIlerlemesi: List<ManzumViewModel.KategoriIlerlemesi>,
     onBiliyorum: () -> Unit,
-    onTekrarGoster: () -> Unit
+    onTekrarGoster: () -> Unit,
+    // --- Arama için eklenen parametreler ---
+    aramaMetni: String,
+    onAramaMetniDegisti: (String) -> Unit,
+    aramaSonucSayisi: Int? = null // null: arama kapalı/boş, dolu ise eşleşme sayısı gösterilir
 ) {
     var detayAcik by remember { mutableStateOf(false) }
     // Her yeni kart geldiğinde kartın ön yüze dönmesi için kelime.id'yi anahtar yapıyoruz
@@ -74,6 +83,40 @@ fun KelimeKartlariScreen(
             color = ManzumGold,
             trackColor = ManzumTextMuted.copy(alpha = 0.25f)
         )
+        Spacer(Modifier.height(16.dp))
+
+        // --- Arama kutusu ---
+        OutlinedTextField(
+            value = aramaMetni,
+            onValueChange = onAramaMetniDegisti,
+            modifier = Modifier.fillMaxWidth(),
+            placeholder = { Text("Kelime veya anlam ara...", color = ManzumTextMuted) },
+            leadingIcon = { Icon(Icons.Filled.Search, contentDescription = null, tint = ManzumTextMuted) },
+            trailingIcon = {
+                if (aramaMetni.isNotEmpty()) {
+                    IconButton(onClick = { onAramaMetniDegisti("") }) {
+                        Icon(Icons.Filled.Close, contentDescription = "Aramayı temizle", tint = ManzumTextMuted)
+                    }
+                }
+            },
+            singleLine = true,
+            keyboardOptions = KeyboardOptions(imeAction = ImeAction.Search),
+            colors = OutlinedTextFieldDefaults.colors(
+                focusedTextColor = ManzumCardTextLight,
+                unfocusedTextColor = ManzumCardTextLight,
+                focusedBorderColor = ManzumGold,
+                unfocusedBorderColor = ManzumTextMuted.copy(alpha = 0.4f),
+                cursorColor = ManzumGold
+            )
+        )
+        if (aramaSonucSayisi != null) {
+            Spacer(Modifier.height(6.dp))
+            Text(
+                if (aramaSonucSayisi > 0) "$aramaSonucSayisi sonuç bulundu" else "Sonuç bulunamadı",
+                color = ManzumTextMuted,
+                fontSize = 12.sp
+            )
+        }
         Spacer(Modifier.height(16.dp))
 
         // Kategoriye göre detay (açılır/kapanır)
@@ -130,7 +173,8 @@ fun KelimeKartlariScreen(
                 contentAlignment = Alignment.Center
             ) {
                 Text(
-                    "Tüm kelimeleri biliyorsun! 🎉",
+                    if (aramaMetni.isNotBlank()) "\"$aramaMetni\" için kart bulunamadı"
+                    else "Tüm kelimeleri biliyorsun! 🎉",
                     color = ManzumCardTextLight,
                     fontFamily = FontFamily.Serif,
                     fontSize = 18.sp,

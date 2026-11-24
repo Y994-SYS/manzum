@@ -148,13 +148,18 @@ class MainActivity : ComponentActivity() {
                                 val guncelKart by viewModel.guncelKelimeKarti.collectAsState()
                                 val bilinenIdler by viewModel.bilinenKelimeIdler.collectAsState()
                                 val (_, toplamSayisi) = viewModel.kelimeIlerlemesi()
+                                val aramaMetni by viewModel.aramaMetni.collectAsState()
+                                val aramaSonucSayisi by viewModel.aramaSonucSayisi.collectAsState()
                                 KelimeKartlariScreen(
                                     guncelKart = guncelKart,
                                     bilinenSayisi = bilinenIdler.size,
                                     toplamSayisi = toplamSayisi,
                                     kategoriIlerlemesi = viewModel.kategoriBazliKelimeIlerlemesi(),
                                     onBiliyorum = { viewModel.kelimeyiBiliyorum() },
-                                    onTekrarGoster = { viewModel.kelimeyiTekrarGoster() }
+                                    onTekrarGoster = { viewModel.kelimeyiTekrarGoster() },
+                                    aramaMetni = aramaMetni,
+                                    onAramaMetniDegisti = { viewModel.aramaMetniDegisti(it) },
+                                    aramaSonucSayisi = aramaSonucSayisi
                                 )
                             }
                         }

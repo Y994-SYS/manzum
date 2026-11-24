@@ -10,6 +10,7 @@ import com.alkanyazilim.manzum.data.KelimeRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.launch
 
@@ -34,6 +35,18 @@ class ManzumViewModel(
 
     private val _guncelKelimeKarti = MutableStateFlow<KelimeKarti?>(null)
     val guncelKelimeKarti: StateFlow<KelimeKarti?> = _guncelKelimeKarti
+
+    // ---- Kelime Kartlarım arama ----
+
+    private val _aramaMetni = MutableStateFlow("")
+    val aramaMetni: StateFlow<String> = _aramaMetni
+
+    // Arama sonuçları arasında ilerlemek için tutulan index (Tekrar Göster ile bir sonrakine geçer)
+    private var aramaIndex = 0
+
+    val aramaSonucSayisi: StateFlow<Int?> = _aramaMetni
+        .map { metin -> if (metin.isBlank()) null else aramaSonuclari(metin).size }
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), null)
 
     init {
         viewModelScope.launch { _beyitler.value = repository.tumBeyitler() }
@@ -60,7 +73,44 @@ class ManzumViewModel(
     fun favoriBeyitler(): List<Beyit> =
         beyitler.value.filter { favoriIdler.value.contains(it.id) }
 
+    private fun aramaSonuclari(metin: String): List<KelimeKarti> {
+        if (metin.isBlank()) return emptyList()
+        return kelimeler.filter {
+            it.kelime.contains(metin, ignoreCase = true) ||
+                    it.anlam.contains(metin, ignoreCase = true) ||
+                    it.ornekDize.contains(metin, ignoreCase = true)
+        }
+    }
+
+    fun aramaMetniDegisti(yeniMetin: String) {
+        _aramaMetni.value = yeniMetin
+        aramaIndex = 0
+        val sonuclar = aramaSonuclari(yeniMetin)
+        _guncelKelimeKarti.value = if (yeniMetin.isBlank()) {
+            // Arama temizlendi, normal (bilinmeyen kelimeler arası rastgele) akışa dön
+            null // aşağıda sonrakiKelimeKarti() ile dolduracağız
+        } else {
+            sonuclar.getOrNull(aramaIndex)
+        }
+        if (yeniMetin.isBlank()) {
+            sonrakiKelimeKarti()
+        }
+    }
+
     fun sonrakiKelimeKarti() {
+        val aktifArama = _aramaMetni.value
+        if (aktifArama.isNotBlank()) {
+            // Arama aktifken "sonraki" arama sonuçları arasında döner
+            val sonuclar = aramaSonuclari(aktifArama)
+            if (sonuclar.isEmpty()) {
+                _guncelKelimeKarti.value = null
+                return
+            }
+            aramaIndex = (aramaIndex + 1) % sonuclar.size
+            _guncelKelimeKarti.value = sonuclar[aramaIndex]
+            return
+        }
+
         if (kelimeler.isEmpty()) {
             _guncelKelimeKarti.value = null
             return
