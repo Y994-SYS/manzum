@@ -1,0 +1,22 @@
+[
+  {
+    "id": 23,
+    "sair": "Karacaoğlan",
+    "kategori": "Özlem",
+    "orijinalMetin": "Dostun cefası gelir, ben onun vefasın isterim\nAyrılık derdi gelir, ben kavuşma davasın isterim",
+    "sadelestirme": "Dostun eziyeti gelir, ben onun sadakatini isterim.\nAyrılık derdi gelir, ben kavuşma davasını güderim.",
+    "yorum": "Hayat hep zıddını getirir; âşık ise hep güzelini diler. Yalın bir direniş şiiri.",
+    "sairBilgisi": "17. yy, Türk halk şiirinin en önemli isimlerinden.",
+    "kaynak": "Karacaoğlan Şiirleri"
+  },
+  {
+    "sair": "Karacaoğlan",
+    "kategori": "Gurbet",
+    "orijinalMetin": "Gam elinden benim zülfü siyahım\nPeykan değdi sinem yaralandı gel",
+    "sadelestirme": "Keder yüzünden saçlarım karardı. Ok değdi, sinem yaralandı, gel.",
+    "yorum": "Gurbette geçen zamanın getirdiği fiziksel ve ruhsal yıpranış, göçmen gençliğin yaşadığı kimlik bunalımına tercüman olur.",
+    "sairBilgisi": "17. yüzyıl Âşık tarzı şair, Türk halk şiirinin en büyük temsilcisi.",
+    "kaynak": "Karacaoğlan Şiirleri",
+    "id": 131
+  }
+]

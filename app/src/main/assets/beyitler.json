@@ -220,16 +220,6 @@
     "kaynak": "Karacaoğlan Divanı ('İncecikten Bir Kar Yağar / Elif' koşması) — çapraz doğrulama: siir.gen.tr, antoloji.com, milliyet.com.tr, turkdili.gen.tr (7+ kaynak). DÜZELTME NOTU: Önceki kayıtta ikinci mısra 'Deli gönül avunur mu, Elif Elif diye' olarak hatalı girilmişti; doğru ve yaygın kabul gören metin 'Deli gönül abdal olmuş, gezer Elif Elif diye' şeklindedir."
   },
   {
-    "id": 23,
-    "sair": "Karacaoğlan",
-    "kategori": "Özlem",
-    "orijinalMetin": "Dostun cefası gelir, ben onun vefasın isterim\nAyrılık derdi gelir, ben kavuşma davasın isterim",
-    "sadelestirme": "Dostun eziyeti gelir, ben onun sadakatini isterim.\nAyrılık derdi gelir, ben kavuşma davasını güderim.",
-    "yorum": "Hayat hep zıddını getirir; âşık ise hep güzelini diler. Yalın bir direniş şiiri.",
-    "sairBilgisi": "17. yy, Türk halk şiirinin en önemli isimlerinden.",
-    "kaynak": "Karacaoğlan Şiirleri"
-  },
-  {
     "id": 24,
     "sair": "Karacaoğlan",
     "kategori": "Yalnızlık",
@@ -1298,16 +1288,6 @@
     "sairBilgisi": "17. yüzyıl Divan şairi, hikemî üslubun en önemli temsilcisi.",
     "kaynak": "Nabi Divanı, Hazırlayan: Ali Fuat Bilkan",
     "id": 130
-  },
-  {
-    "sair": "Karacaoğlan",
-    "kategori": "Gurbet",
-    "orijinalMetin": "Gam elinden benim zülfü siyahım\nPeykan değdi sinem yaralandı gel",
-    "sadelestirme": "Keder yüzünden saçlarım karardı. Ok değdi, sinem yaralandı, gel.",
-    "yorum": "Gurbette geçen zamanın getirdiği fiziksel ve ruhsal yıpranış, göçmen gençliğin yaşadığı kimlik bunalımına tercüman olur.",
-    "sairBilgisi": "17. yüzyıl Âşık tarzı şair, Türk halk şiirinin en büyük temsilcisi.",
-    "kaynak": "Karacaoğlan Şiirleri",
-    "id": 131
   },
   {
     "sair": "Fuzuli",
